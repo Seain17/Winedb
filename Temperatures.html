@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Ideal Temperatures for Wine</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>The Ideal Temperatures<br><em>for Wine</em></h1>
+        </header>
+
+        <!-- 와인 종류별 적정 온도 카드 -->
+        <section class="wine-cards">
+            <div class="wine-card">
+                <div class="wine-icon">🍯</div>
+                <h3>Sweet</h3>
+                <p class="temp">8℃ and below</p>
+            </div>
+            <div class="wine-card">
+                <div class="wine-icon">🥂</div>
+                <h3>Sparkling</h3>
+                <p class="temp">10℃ and below</p>
+            </div>
+            <div class="wine-card">
+                <div class="wine-icon">🍾</div>
+                <h3>Light White</h3>
+                <p class="temp">7 - 10℃</p>
+            </div>
+            <div class="wine-card">
+                <div class="wine-icon">🥃</div>
+                <h3>Full-bodied White</h3>
+                <p class="temp">10 - 13℃</p>
+            </div>
+            <div class="wine-card">
+                <div class="wine-icon">🍷</div>
+                <h3>Light Red</h3>
+                <p class="temp">13 - 18℃</p>
+            </div>
+            <div class="wine-card">
+                <div class="wine-icon">🍷</div>
+                <h3>Med to Full-bodied Red</h3>
+                <p class="temp">15 - 18℃</p>
+            </div>
+        </section>
+
+        <!-- 온도 그라데이션 바 -->
+        <section class="temp-bar-section">
+            <div class="temp-bar"></div>
+            <div class="temp-labels">
+                <span>6℃</span><span>8℃</span><span>10℃</span><span>12℃</span><span>14℃</span><span>16℃</span><span>18℃</span>
+            </div>
+        </section>
+
+        <!-- White Wine 테이블 -->
+        <section class="wine-table-section">
+            <h2>White Wine</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Alcohol %</th>
+                        <th>Body</th>
+                        <th>Example Grapes / Regions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>9 - 11.5%</td>
+                        <td>Light-bodied</td>
+                        <td>Mosel Riesling, Vinho Verde</td>
+                    </tr>
+                    <tr>
+                        <td>11.5 - 12.5%</td>
+                        <td>Medium(-)</td>
+                        <td>Pinot Grigio, Sauvignon Blanc (Loire)</td>
+                    </tr>
+                    <tr>
+                        <td>12.5 - 13.5%</td>
+                        <td>Medium</td>
+                        <td>Chardonnay (except many Chablis), Chenin Blanc</td>
+                    </tr>
+                    <tr>
+                        <td>13.5 - 14.5%</td>
+                        <td>Medium+ to Full-bodied</td>
+                        <td>Oaked Chardonnay, Viognier</td>
+                    </tr>
+                    <tr>
+                        <td>14.5%+</td>
+                        <td>Full-bodied</td>
+                        <td>California Chardonnay, some Southern Rh&ocirc;ne whites</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+        <!-- Red Wine 테이블 -->
+        <section class="wine-table-section">
+            <h2>Red Wine</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Alcohol %</th>
+                        <th>Body</th>
+                        <th>Example Grapes / Regions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>10.5 - 12%</td>
+                        <td>Light-bodied</td>
+                        <td>Beaujolais Gamay, German Sp&auml;tburgunder</td>
+                    </tr>
+                    <tr>
+                        <td>12 - 13%</td>
+                        <td>Medium(-)</td>
+                        <td>Loire Cabernet Franc</td>
+                    </tr>
+                    <tr>
+                        <td>13 - 14%</td>
+                        <td>Medium</td>
+                        <td>Bordeaux, Rioja Crianza</td>
+                    </tr>
+                    <tr>
+                        <td>14 - 15%</td>
+                        <td>Medium+ to Full-bodied</td>
+                        <td>Napa Cabernet Sauvignon, Primitivo</td>
+                    </tr>
+                    <tr>
+                        <td>15%+</td>
+                        <td>Full-bodied</td>
+                        <td>Amarone, some Montepulciano</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+        <!-- 온도 계산 공식 -->
+        <section class="formula-section">
+            <h2>Precision Calculation Model for Wine Serving Temperature</h2>
+            <div class="formula">
+                <p><strong>Ideal Tasting Temperature (℃)</strong> = Baseline Serving Temp + (Tannin Level -1 to +2)</p>
+                <p>+ (Maturity Level 0 to +2℃) - (Acidity Level 0 to +2℃) - (Fruitiness Level 0 to +2℃)</p>
+            </div>
+        </section>
+
+        <footer>
+            <p>@darkstudio.kr</p>
+        </footer>
+    </div>
+</body>
+</html>

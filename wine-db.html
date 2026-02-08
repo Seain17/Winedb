@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wine Database</title>
+    <link rel="stylesheet" href="wine-db.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Wine Database</h1>
+            <p class="subtitle">나만의 와인 기록장</p>
+        </header>
+
+        <!-- 와인 등록 폼 -->
+        <section class="form-section">
+            <h2>와인 등록</h2>
+            <form id="wine-form">
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="name">와인 이름 *</label>
+                        <input type="text" id="name" placeholder="예: Château Margaux 2015" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="type">종류 *</label>
+                        <select id="type" required>
+                            <option value="">선택</option>
+                            <option value="Red">Red</option>
+                            <option value="White">White</option>
+                            <option value="Rosé">Rosé</option>
+                            <option value="Sparkling">Sparkling</option>
+                            <option value="Sweet">Sweet</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="country">국가</label>
+                        <input type="text" id="country" placeholder="예: France">
+                    </div>
+                    <div class="form-group">
+                        <label for="region">지역</label>
+                        <input type="text" id="region" placeholder="예: Bordeaux">
+                    </div>
+                    <div class="form-group">
+                        <label for="grape">포도 품종</label>
+                        <input type="text" id="grape" placeholder="예: Cabernet Sauvignon">
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="vintage">빈티지</label>
+                        <input type="number" id="vintage" placeholder="예: 2020" min="1900" max="2030">
+                    </div>
+                    <div class="form-group">
+                        <label for="alcohol">알코올(%)</label>
+                        <input type="number" id="alcohol" placeholder="예: 13.5" step="0.1" min="0" max="25">
+                    </div>
+                    <div class="form-group">
+                        <label for="price">가격(원)</label>
+                        <input type="number" id="price" placeholder="예: 35000" min="0">
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="rating">평점</label>
+                        <div class="star-rating" id="star-rating">
+                            <span data-value="1">★</span>
+                            <span data-value="2">★</span>
+                            <span data-value="3">★</span>
+                            <span data-value="4">★</span>
+                            <span data-value="5">★</span>
+                        </div>
+                        <input type="hidden" id="rating" value="0">
+                    </div>
+                    <div class="form-group full">
+                        <label for="notes">테이스팅 노트</label>
+                        <textarea id="notes" rows="2" placeholder="맛, 향, 느낌을 자유롭게 기록..."></textarea>
+                    </div>
+                </div>
+
+                <button type="submit" id="submit-btn">등록하기</button>
+            </form>
+        </section>
+
+        <!-- 필터/검색 -->
+        <section class="filter-section">
+            <input type="text" id="search" placeholder="와인 이름으로 검색...">
+            <select id="filter-type">
+                <option value="">전체</option>
+                <option value="Red">Red</option>
+                <option value="White">White</option>
+                <option value="Rosé">Rosé</option>
+                <option value="Sparkling">Sparkling</option>
+                <option value="Sweet">Sweet</option>
+            </select>
+        </section>
+
+        <!-- 와인 목록 -->
+        <section class="wine-list-section">
+            <h2>와인 목록 <span id="wine-count">(0)</span></h2>
+            <div id="wine-list">
+                <p class="empty-msg">등록된 와인이 없습니다. 위에서 와인을 등록해보세요.</p>
+            </div>
+        </section>
+    </div>
+
+    <script src="wine-db.js"></script>
+</body>
+</html>
