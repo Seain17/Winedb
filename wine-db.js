@@ -116,9 +116,10 @@ function filterWines() {
 
     const filtered = allWines.filter(record => {
         const f = record.fields;
-        const matchName = !keyword || (f.Name && f.Name.toLowerCase().includes(keyword));
+        const searchable = [f.Name, f.Country, f.Region, f.Grape, f.Notes].filter(Boolean).join(' ').toLowerCase();
+        const matchKeyword = !keyword || searchable.includes(keyword);
         const matchType = !type || f.Type === type;
-        return matchName && matchType;
+        return matchKeyword && matchType;
     });
 
     renderWines(filtered);
