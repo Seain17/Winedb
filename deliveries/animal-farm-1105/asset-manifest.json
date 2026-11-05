@@ -1,0 +1,1269 @@
+{
+  "count": 78,
+  "passed": true,
+  "failures": [],
+  "widgetDiffBounds": {
+    "blink": [
+      238,
+      164,
+      340,
+      201
+    ],
+    "wave": [
+      326,
+      201,
+      434,
+      297
+    ]
+  },
+  "assets": [
+    {
+      "id": "A1_redpanda_full",
+      "path": "characters/A1_redpanda_full.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 406146,
+      "transparent": true,
+      "visibleBounds": [
+        206,
+        159,
+        819,
+        871
+      ],
+      "minimumMargin": 0.1494140625,
+      "sha256": "896c3235a4133a3ee903d2567de94a9220b1734c81140d4d5f79edc78c4ba2d8"
+    },
+    {
+      "id": "A1_redpanda_happy",
+      "path": "characters/A1_redpanda_happy.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 522038,
+      "transparent": true,
+      "visibleBounds": [
+        167,
+        127,
+        857,
+        879
+      ],
+      "minimumMargin": 0.1240234375,
+      "sha256": "56145812a6b79fb7d39b034ca0b04584954558eae3c1d830155a65d3a0cec534"
+    },
+    {
+      "id": "A1_redpanda_heart",
+      "path": "characters/A1_redpanda_heart.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 446228,
+      "transparent": true,
+      "visibleBounds": [
+        181,
+        125,
+        843,
+        871
+      ],
+      "minimumMargin": 0.1220703125,
+      "sha256": "e6f64243a6bd23632f8495c9b43204293f5dc4bad1feac2ea41bebf36892dc26"
+    },
+    {
+      "id": "A1_redpanda_hello",
+      "path": "characters/A1_redpanda_hello.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 444362,
+      "transparent": true,
+      "visibleBounds": [
+        159,
+        103,
+        865,
+        863
+      ],
+      "minimumMargin": 0.1005859375,
+      "sha256": "ccb1dfb48cabd9b5b8d5106d366cc3cc50086b01646180ebacb69fcc7b200a3c"
+    },
+    {
+      "id": "A1_redpanda_idle",
+      "path": "characters/A1_redpanda_idle.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 417478,
+      "transparent": true,
+      "visibleBounds": [
+        204,
+        137,
+        820,
+        879
+      ],
+      "minimumMargin": 0.1337890625,
+      "sha256": "1627613e364fac75f309a5f6f16d92b4960972f1692c3f636cf973d7828ca91a"
+    },
+    {
+      "id": "A1_redpanda_sleep",
+      "path": "characters/A1_redpanda_sleep.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 397007,
+      "transparent": true,
+      "visibleBounds": [
+        164,
+        163,
+        860,
+        823
+      ],
+      "minimumMargin": 0.1591796875,
+      "sha256": "393ae2c9ec5408cc39e53b7ab7f6514aa81cb22ca9a497de65b0cd3d7249714c"
+    },
+    {
+      "id": "A1_redpanda_work",
+      "path": "characters/A1_redpanda_work.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 467550,
+      "transparent": true,
+      "visibleBounds": [
+        192,
+        123,
+        832,
+        879
+      ],
+      "minimumMargin": 0.1201171875,
+      "sha256": "07945b1a0b6d9d72007143232a3a4d541a2ccf55475599ae933888c8862cde38"
+    },
+    {
+      "id": "A2_capybara_full",
+      "path": "characters/A2_capybara_full.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 482506,
+      "transparent": true,
+      "visibleBounds": [
+        187,
+        152,
+        837,
+        894
+      ],
+      "minimumMargin": 0.126953125,
+      "sha256": "3ee71acddb41933bd8641c7d4669c5acd86379cb93122e892add039cccde901b"
+    },
+    {
+      "id": "A2_capybara_happy",
+      "path": "characters/A2_capybara_happy.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 555463,
+      "transparent": true,
+      "visibleBounds": [
+        139,
+        146,
+        885,
+        894
+      ],
+      "minimumMargin": 0.126953125,
+      "sha256": "0ab94e16a23423605fcf5f6b039bb81eb8b0fc57354a70602a67742e36de009a"
+    },
+    {
+      "id": "A2_capybara_heart",
+      "path": "characters/A2_capybara_heart.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 462222,
+      "transparent": true,
+      "visibleBounds": [
+        178,
+        125,
+        846,
+        857
+      ],
+      "minimumMargin": 0.1220703125,
+      "sha256": "08ec4e9d852c75f78b3a324cdc5fc02b579d3c98f9c1d95a474074b241f09cb8"
+    },
+    {
+      "id": "A2_capybara_hello",
+      "path": "characters/A2_capybara_hello.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 457380,
+      "transparent": true,
+      "visibleBounds": [
+        187,
+        93,
+        837,
+        858
+      ],
+      "minimumMargin": 0.0908203125,
+      "sha256": "8995a6e2aa19b499bf993e54db05b86a1ac00429bf3a246f58620aace7ec980e"
+    },
+    {
+      "id": "A2_capybara_idle",
+      "path": "characters/A2_capybara_idle.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 420850,
+      "transparent": true,
+      "visibleBounds": [
+        240,
+        153,
+        784,
+        894
+      ],
+      "minimumMargin": 0.126953125,
+      "sha256": "901d340f4152c916aace8c8a21eff240bb8fedb50ae86dc232e2f56d94f195b1"
+    },
+    {
+      "id": "A2_capybara_sleep",
+      "path": "characters/A2_capybara_sleep.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 468594,
+      "transparent": true,
+      "visibleBounds": [
+        126,
+        114,
+        897,
+        807
+      ],
+      "minimumMargin": 0.111328125,
+      "sha256": "bbfe3991d0aba8f0e4ef6b4eaf4810dc2f77e49c851ee1fd4a5b19a5b52b1f54"
+    },
+    {
+      "id": "A2_capybara_work",
+      "path": "characters/A2_capybara_work.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 468839,
+      "transparent": true,
+      "visibleBounds": [
+        217,
+        114,
+        808,
+        858
+      ],
+      "minimumMargin": 0.111328125,
+      "sha256": "5dabf0ffe445393f3d3bf59170f53656369f3992f3c2c38d08c08486fcb2896b"
+    },
+    {
+      "id": "A3_sheep_full",
+      "path": "characters/A3_sheep_full.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 437442,
+      "transparent": true,
+      "visibleBounds": [
+        189,
+        140,
+        835,
+        879
+      ],
+      "minimumMargin": 0.13671875,
+      "sha256": "da406d12fbde7b89f5babc54bcf9a2ff3f0a82517ce1a1ce45a7c2c86afea6d3"
+    },
+    {
+      "id": "A3_sheep_happy",
+      "path": "characters/A3_sheep_happy.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 491879,
+      "transparent": true,
+      "visibleBounds": [
+        174,
+        135,
+        850,
+        879
+      ],
+      "minimumMargin": 0.1318359375,
+      "sha256": "7cb6479021496c0508e5dbe5b0aca5a052e94fbdc7d761c2d35d91468ea43f30"
+    },
+    {
+      "id": "A3_sheep_heart",
+      "path": "characters/A3_sheep_heart.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 439277,
+      "transparent": true,
+      "visibleBounds": [
+        192,
+        127,
+        831,
+        872
+      ],
+      "minimumMargin": 0.1240234375,
+      "sha256": "0350df88f27c51638c13991b1d6747590186409be8563b9cd0edaac469798ccc"
+    },
+    {
+      "id": "A3_sheep_hello",
+      "path": "characters/A3_sheep_hello.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 408827,
+      "transparent": true,
+      "visibleBounds": [
+        208,
+        123,
+        817,
+        863
+      ],
+      "minimumMargin": 0.1201171875,
+      "sha256": "34e88808489c4a411677d42c5e5484abee72ab9e04b04369c6073cfd28b8a842"
+    },
+    {
+      "id": "A3_sheep_idle",
+      "path": "characters/A3_sheep_idle.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 381096,
+      "transparent": true,
+      "visibleBounds": [
+        236,
+        137,
+        787,
+        879
+      ],
+      "minimumMargin": 0.1337890625,
+      "sha256": "38143df963d064a2101b35f9c9a475276f53db5ce5eddbbd72a8b6f0af2ace04"
+    },
+    {
+      "id": "A3_sheep_sleep",
+      "path": "characters/A3_sheep_sleep.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 399237,
+      "transparent": true,
+      "visibleBounds": [
+        147,
+        165,
+        877,
+        806
+      ],
+      "minimumMargin": 0.1435546875,
+      "sha256": "b5220521924629795e147d3e1dfe1e6c7f78c444aeeef970c9bb741ef60f2069"
+    },
+    {
+      "id": "A3_sheep_work",
+      "path": "characters/A3_sheep_work.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 442708,
+      "transparent": true,
+      "visibleBounds": [
+        224,
+        138,
+        800,
+        873
+      ],
+      "minimumMargin": 0.134765625,
+      "sha256": "61999f1b85bf6af447814850fb8ede0c0916655285091ca669983c718b1072fa"
+    },
+    {
+      "id": "A4_flyingsquirrel_full",
+      "path": "characters/A4_flyingsquirrel_full.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 519799,
+      "transparent": true,
+      "visibleBounds": [
+        135,
+        146,
+        889,
+        889
+      ],
+      "minimumMargin": 0.1318359375,
+      "sha256": "870efb2bcbb99be1dcf2840df9a05e6085ca1a5d8692f7077ef6ec5decb8d8be"
+    },
+    {
+      "id": "A4_flyingsquirrel_happy",
+      "path": "characters/A4_flyingsquirrel_happy.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 548138,
+      "transparent": true,
+      "visibleBounds": [
+        160,
+        146,
+        864,
+        889
+      ],
+      "minimumMargin": 0.1318359375,
+      "sha256": "0e32fa30fc1585e65eb554da788598572c65ca7e06577d04e2f791b0b72e63b4"
+    },
+    {
+      "id": "A4_flyingsquirrel_heart",
+      "path": "characters/A4_flyingsquirrel_heart.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 509569,
+      "transparent": true,
+      "visibleBounds": [
+        160,
+        107,
+        864,
+        870
+      ],
+      "minimumMargin": 0.1044921875,
+      "sha256": "4239bc72fad55b525dcf2c405502f4d6d4fa8f0eb56f1ac8bfdd2fdabf2370e1"
+    },
+    {
+      "id": "A4_flyingsquirrel_hello",
+      "path": "characters/A4_flyingsquirrel_hello.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 511272,
+      "transparent": true,
+      "visibleBounds": [
+        161,
+        93,
+        863,
+        866
+      ],
+      "minimumMargin": 0.0908203125,
+      "sha256": "d60644d179009023cb222429d831a09b8a9f2ba30fc0085c04554ac28a571be9"
+    },
+    {
+      "id": "A4_flyingsquirrel_idle",
+      "path": "characters/A4_flyingsquirrel_idle.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 463913,
+      "transparent": true,
+      "visibleBounds": [
+        205,
+        148,
+        819,
+        890
+      ],
+      "minimumMargin": 0.130859375,
+      "sha256": "578253a4222ed9c2f4ff88878a222a47be7009c991aa7787fa734f2ad8c1f327"
+    },
+    {
+      "id": "A4_flyingsquirrel_sleep",
+      "path": "characters/A4_flyingsquirrel_sleep.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 442461,
+      "transparent": true,
+      "visibleBounds": [
+        156,
+        114,
+        868,
+        836
+      ],
+      "minimumMargin": 0.111328125,
+      "sha256": "9845de9fa356bbd2a3aa6d8167354d27b1ee112e20846645bf1f2fd9e2788536"
+    },
+    {
+      "id": "A4_flyingsquirrel_work",
+      "path": "characters/A4_flyingsquirrel_work.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 547456,
+      "transparent": true,
+      "visibleBounds": [
+        169,
+        108,
+        856,
+        870
+      ],
+      "minimumMargin": 0.10546875,
+      "sha256": "a8a056d3260ffd80f27ce0ac1c27c5cdc96b423176ee2850d917a93b9bae841b"
+    },
+    {
+      "id": "A5_babypanda_full",
+      "path": "characters/A5_babypanda_full.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 427642,
+      "transparent": true,
+      "visibleBounds": [
+        182,
+        136,
+        842,
+        879
+      ],
+      "minimumMargin": 0.1328125,
+      "sha256": "11734bf223063cc0174ab73952c773b4d11f78d6dc84067fa734adb39e165cf4"
+    },
+    {
+      "id": "A5_babypanda_happy",
+      "path": "characters/A5_babypanda_happy.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 486874,
+      "transparent": true,
+      "visibleBounds": [
+        173,
+        139,
+        852,
+        879
+      ],
+      "minimumMargin": 0.1357421875,
+      "sha256": "3ed6c3d3b73fdca1771996586b07698bac3357cec4aad1f60aca13f85ba0cce3"
+    },
+    {
+      "id": "A5_babypanda_heart",
+      "path": "characters/A5_babypanda_heart.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 413229,
+      "transparent": true,
+      "visibleBounds": [
+        196,
+        116,
+        828,
+        865
+      ],
+      "minimumMargin": 0.11328125,
+      "sha256": "83d2a03fefe2b189c3d02baaa13f98e45694f38e17ef090a15ae6e5853d17ac0"
+    },
+    {
+      "id": "A5_babypanda_hello",
+      "path": "characters/A5_babypanda_hello.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 397499,
+      "transparent": true,
+      "visibleBounds": [
+        194,
+        109,
+        829,
+        857
+      ],
+      "minimumMargin": 0.1064453125,
+      "sha256": "62147049b65b09bd2f7ae69a9768f0b6b0b12edaa5fba3156cf306210a9ac122"
+    },
+    {
+      "id": "A5_babypanda_idle",
+      "path": "characters/A5_babypanda_idle.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 369825,
+      "transparent": true,
+      "visibleBounds": [
+        254,
+        137,
+        770,
+        879
+      ],
+      "minimumMargin": 0.1337890625,
+      "sha256": "f0f92a92391465f3f4beb625d49dd811e68ab4411b5b3a74bd0d64e5ec3112d9"
+    },
+    {
+      "id": "A5_babypanda_sleep",
+      "path": "characters/A5_babypanda_sleep.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 431016,
+      "transparent": true,
+      "visibleBounds": [
+        152,
+        151,
+        871,
+        840
+      ],
+      "minimumMargin": 0.1474609375,
+      "sha256": "36359929d0e1505e23598afb97c24024854ad03e7f36e7db923adc9a2a7b27ef"
+    },
+    {
+      "id": "A5_babypanda_work",
+      "path": "characters/A5_babypanda_work.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 433536,
+      "transparent": true,
+      "visibleBounds": [
+        228,
+        121,
+        796,
+        871
+      ],
+      "minimumMargin": 0.1181640625,
+      "sha256": "79e342cd459d48907d6079c8acabe610b968f04d3fa781c9d3eb6d9f7185d2ec"
+    },
+    {
+      "id": "BG-FARM-DAY",
+      "path": "backgrounds/BG-FARM-DAY.png",
+      "width": 1170,
+      "height": 2532,
+      "bytes": 1518277,
+      "transparent": false,
+      "visibleBounds": [
+        0,
+        0,
+        1170,
+        2532
+      ],
+      "minimumMargin": null,
+      "sha256": "414a5c0f2c14e6511da3a836b2f34f95b9190c920e461c5ae93e9191507ec22b"
+    },
+    {
+      "id": "BG-FARM-NIGHT",
+      "path": "backgrounds/BG-FARM-NIGHT.png",
+      "width": 1170,
+      "height": 2532,
+      "bytes": 1547394,
+      "transparent": false,
+      "visibleBounds": [
+        0,
+        0,
+        1170,
+        2532
+      ],
+      "minimumMargin": null,
+      "sha256": "c40647fb8a931272d4552f80276a797e5079d9b122cdfa9490aae46d02b5d855"
+    },
+    {
+      "id": "I-ATTEND",
+      "path": "icons/I-ATTEND.png",
+      "width": 256,
+      "height": 256,
+      "bytes": 8003,
+      "transparent": true,
+      "visibleBounds": [
+        38,
+        36,
+        218,
+        218
+      ],
+      "minimumMargin": 0.140625,
+      "sha256": "0cf78b8aba084616aeb5125b362c04c0b83ea065922b9e28e72343b47646c747"
+    },
+    {
+      "id": "I-BARN",
+      "path": "icons/I-BARN.png",
+      "width": 256,
+      "height": 256,
+      "bytes": 13226,
+      "transparent": true,
+      "visibleBounds": [
+        39,
+        21,
+        223,
+        228
+      ],
+      "minimumMargin": 0.08203125,
+      "sha256": "1727e2d0d20c981d287683d2d27ad91d5d972186101eadd0687a7b03aa602276"
+    },
+    {
+      "id": "I-BOOST",
+      "path": "icons/I-BOOST.png",
+      "width": 256,
+      "height": 256,
+      "bytes": 11107,
+      "transparent": true,
+      "visibleBounds": [
+        54,
+        40,
+        208,
+        216
+      ],
+      "minimumMargin": 0.15625,
+      "sha256": "1a26390ff9663196c2f94cdd71b1a5bdc2bb9cdeff3847ca8a1be591aa8c7e99"
+    },
+    {
+      "id": "I-CHARGE",
+      "path": "icons/I-CHARGE.png",
+      "width": 256,
+      "height": 256,
+      "bytes": 11628,
+      "transparent": true,
+      "visibleBounds": [
+        62,
+        26,
+        213,
+        218
+      ],
+      "minimumMargin": 0.1015625,
+      "sha256": "f40f9c6de347a8b69464239dc0c6826af472c3229643687f371561211c8bf734"
+    },
+    {
+      "id": "I-COIN",
+      "path": "icons/I-COIN.png",
+      "width": 256,
+      "height": 256,
+      "bytes": 13307,
+      "transparent": true,
+      "visibleBounds": [
+        51,
+        51,
+        205,
+        205
+      ],
+      "minimumMargin": 0.19921875,
+      "sha256": "22f76fd3bd349beb97130b575aa8132972d53a7cd80101ff1943eaba0023b753"
+    },
+    {
+      "id": "I-GAME",
+      "path": "icons/I-GAME.png",
+      "width": 256,
+      "height": 256,
+      "bytes": 7919,
+      "transparent": true,
+      "visibleBounds": [
+        38,
+        75,
+        218,
+        201
+      ],
+      "minimumMargin": 0.1484375,
+      "sha256": "58b5cab6568273b7e943d38166094d3f76d9c494523645ea17e172e11aa151ed"
+    },
+    {
+      "id": "I-LOCK",
+      "path": "icons/I-LOCK.png",
+      "width": 256,
+      "height": 256,
+      "bytes": 7259,
+      "transparent": true,
+      "visibleBounds": [
+        48,
+        27,
+        208,
+        225
+      ],
+      "minimumMargin": 0.10546875,
+      "sha256": "cf325623d5dae135a4af98ef0112f231875e4c23045906ba910c828ed7f588f7"
+    },
+    {
+      "id": "I-MISSION",
+      "path": "icons/I-MISSION.png",
+      "width": 256,
+      "height": 256,
+      "bytes": 6672,
+      "transparent": true,
+      "visibleBounds": [
+        48,
+        24,
+        208,
+        226
+      ],
+      "minimumMargin": 0.09375,
+      "sha256": "2ce1cc14d8baead22f64b41f70e72b61d40a277adafdbbe72cb4f3bcf7552d4e"
+    },
+    {
+      "id": "I-MY",
+      "path": "icons/I-MY.png",
+      "width": 256,
+      "height": 256,
+      "bytes": 14539,
+      "transparent": true,
+      "visibleBounds": [
+        29,
+        29,
+        227,
+        227
+      ],
+      "minimumMargin": 0.11328125,
+      "sha256": "359426bf123f97db3157b4a863d5c1dc76264f05c5318f74df6e703333981552"
+    },
+    {
+      "id": "I-SHOP",
+      "path": "icons/I-SHOP.png",
+      "width": 256,
+      "height": 256,
+      "bytes": 6556,
+      "transparent": true,
+      "visibleBounds": [
+        37,
+        27,
+        219,
+        214
+      ],
+      "minimumMargin": 0.10546875,
+      "sha256": "7fdd0ee32a7019144c01d5462539c5d28e231a86f899212a3b7e7bc6be9ed313"
+    },
+    {
+      "id": "I-TAB-HOME_selected",
+      "path": "icons/I-TAB-HOME_selected.png",
+      "width": 256,
+      "height": 256,
+      "bytes": 5802,
+      "transparent": true,
+      "visibleBounds": [
+        28,
+        27,
+        228,
+        219
+      ],
+      "minimumMargin": 0.10546875,
+      "sha256": "89b123ec35040b462e1070d6508f82648f86ad974eaf4112990930e802478508"
+    },
+    {
+      "id": "I-TAB-HOME_unselected",
+      "path": "icons/I-TAB-HOME_unselected.png",
+      "width": 256,
+      "height": 256,
+      "bytes": 5808,
+      "transparent": true,
+      "visibleBounds": [
+        28,
+        27,
+        228,
+        219
+      ],
+      "minimumMargin": 0.10546875,
+      "sha256": "477a2f6d0d0b5999b1c5296c7da05ec810f583c95abe4aa7ac2e15c6a6f3f374"
+    },
+    {
+      "id": "I-TAB-SHOP_selected",
+      "path": "icons/I-TAB-SHOP_selected.png",
+      "width": 256,
+      "height": 256,
+      "bytes": 6556,
+      "transparent": true,
+      "visibleBounds": [
+        37,
+        27,
+        219,
+        214
+      ],
+      "minimumMargin": 0.10546875,
+      "sha256": "7fdd0ee32a7019144c01d5462539c5d28e231a86f899212a3b7e7bc6be9ed313"
+    },
+    {
+      "id": "I-TAB-SHOP_unselected",
+      "path": "icons/I-TAB-SHOP_unselected.png",
+      "width": 256,
+      "height": 256,
+      "bytes": 6844,
+      "transparent": true,
+      "visibleBounds": [
+        37,
+        27,
+        219,
+        214
+      ],
+      "minimumMargin": 0.10546875,
+      "sha256": "07b00fdc2b2550a5864842b604fb632d2f00b78c781ed39065daa7492b023fb7"
+    },
+    {
+      "id": "I-SYS-NOTI",
+      "path": "system/I-SYS-NOTI.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 1004,
+      "transparent": true,
+      "visibleBounds": [
+        12,
+        12,
+        84,
+        83
+      ],
+      "minimumMargin": 0.125,
+      "sha256": "d08fbf17dde451cbb91fe56971d7ebdd29741041fd2915e5d8c01e73f0676ed4"
+    },
+    {
+      "id": "I-SYS-TILE",
+      "path": "system/I-SYS-TILE.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 1744,
+      "transparent": true,
+      "visibleBounds": [
+        11,
+        11,
+        85,
+        85
+      ],
+      "minimumMargin": 0.11458333333333333,
+      "sha256": "41b4d4e394b169d08005fb2d973b08cb402a7b307e703aaafe6bc7cec3de2f03"
+    },
+    {
+      "id": "B-CHARGE",
+      "path": "banners/B-CHARGE.png",
+      "width": 1074,
+      "height": 168,
+      "bytes": 17120,
+      "transparent": false,
+      "visibleBounds": [
+        0,
+        0,
+        1074,
+        168
+      ],
+      "minimumMargin": null,
+      "sha256": "0fd96ddb627fc1708e759f6ebb5ef93aa1c1f621da9317f1d3785f375370be93"
+    },
+    {
+      "id": "B-GAME",
+      "path": "banners/B-GAME.png",
+      "width": 1074,
+      "height": 168,
+      "bytes": 32969,
+      "transparent": false,
+      "visibleBounds": [
+        0,
+        0,
+        1074,
+        168
+      ],
+      "minimumMargin": null,
+      "sha256": "46a94c0ac29a70a7f1cdde77979bb3d117ba605f41f3e69604f83b1c6899d743"
+    },
+    {
+      "id": "FX-COIN_medium",
+      "path": "effects/FX-COIN_medium.png",
+      "width": 512,
+      "height": 512,
+      "bytes": 28149,
+      "transparent": true,
+      "visibleBounds": [
+        103,
+        103,
+        409,
+        409
+      ],
+      "minimumMargin": 0.201171875,
+      "sha256": "86c7460bdca884cccbd99a5f68c6e3020cbbea15e1820563ccb9032e07c51ed8"
+    },
+    {
+      "id": "FX-COIN_small",
+      "path": "effects/FX-COIN_small.png",
+      "width": 512,
+      "height": 512,
+      "bytes": 17581,
+      "transparent": true,
+      "visibleBounds": [
+        163,
+        163,
+        349,
+        349
+      ],
+      "minimumMargin": 0.318359375,
+      "sha256": "77b7dbe14b5704ca2e4a227ee90145f00f9ee6f42a51f8befde493ad72f3dc66"
+    },
+    {
+      "id": "FX-COIN_sparkle",
+      "path": "effects/FX-COIN_sparkle.png",
+      "width": 512,
+      "height": 512,
+      "bytes": 33520,
+      "transparent": true,
+      "visibleBounds": [
+        60,
+        82,
+        448,
+        436
+      ],
+      "minimumMargin": 0.1171875,
+      "sha256": "b0377766d586aad7aa764d3fe550543b3159ce47c06d5e1d3f929eed1d3def12"
+    },
+    {
+      "id": "FX-HEART",
+      "path": "effects/FX-HEART.png",
+      "width": 256,
+      "height": 256,
+      "bytes": 7201,
+      "transparent": true,
+      "visibleBounds": [
+        51,
+        61,
+        205,
+        199
+      ],
+      "minimumMargin": 0.19921875,
+      "sha256": "a9f4d9ebef8dafc11cac904737bd508b0626f2b8f6b700e604354ac560ee5203"
+    },
+    {
+      "id": "FX-LEVELUP",
+      "path": "effects/FX-LEVELUP.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 47596,
+      "transparent": true,
+      "visibleBounds": [
+        157,
+        111,
+        867,
+        854
+      ],
+      "minimumMargin": 0.1083984375,
+      "sha256": "65d1ed8203f3c99e7e27d7814fb9335c813305e607f9d7285b280ca10fdf3253"
+    },
+    {
+      "id": "W-ANI-COIN_f1",
+      "path": "widgets/W-ANI-COIN_f1.png",
+      "width": 128,
+      "height": 128,
+      "bytes": 6445,
+      "transparent": true,
+      "visibleBounds": [
+        25,
+        25,
+        103,
+        103
+      ],
+      "minimumMargin": 0.1953125,
+      "sha256": "2b302a08044a26d2108affab62c00e002d3e457f14538ef9eb253bbce30ca029"
+    },
+    {
+      "id": "W-ANI-COIN_f2",
+      "path": "widgets/W-ANI-COIN_f2.png",
+      "width": 128,
+      "height": 128,
+      "bytes": 7166,
+      "transparent": true,
+      "visibleBounds": [
+        20,
+        18,
+        103,
+        103
+      ],
+      "minimumMargin": 0.140625,
+      "sha256": "f059ccac5ca61f6f5dd3286e9d69898ed53ee1fb5f9dea356a1de92da256007e"
+    },
+    {
+      "id": "W-ANI-COIN_f3",
+      "path": "widgets/W-ANI-COIN_f3.png",
+      "width": 128,
+      "height": 128,
+      "bytes": 7541,
+      "transparent": true,
+      "visibleBounds": [
+        19,
+        16,
+        110,
+        103
+      ],
+      "minimumMargin": 0.125,
+      "sha256": "56ca49f6712c4289a0f324656f59371e5272a1f7678e890328dec3e061d902f8"
+    },
+    {
+      "id": "W-ANI-FULL_f1",
+      "path": "widgets/W-ANI-FULL_f1.png",
+      "width": 512,
+      "height": 512,
+      "bytes": 147597,
+      "transparent": true,
+      "visibleBounds": [
+        84,
+        62,
+        470,
+        440
+      ],
+      "minimumMargin": 0.08203125,
+      "sha256": "d60052a13b46d3cff6f8ea483d0c348065c53eb53a6d45c8953859e3ec700e41"
+    },
+    {
+      "id": "W-ANI-FULL_f2",
+      "path": "widgets/W-ANI-FULL_f2.png",
+      "width": 512,
+      "height": 512,
+      "bytes": 146793,
+      "transparent": true,
+      "visibleBounds": [
+        84,
+        62,
+        470,
+        440
+      ],
+      "minimumMargin": 0.08203125,
+      "sha256": "1b61560c29100e53ba6dbc28383f6c228a28f374d6e3227949350d9f9be58a75"
+    },
+    {
+      "id": "W-ANI-IDLE_f1",
+      "path": "widgets/W-ANI-IDLE_f1.png",
+      "width": 512,
+      "height": 512,
+      "bytes": 141809,
+      "transparent": true,
+      "visibleBounds": [
+        84,
+        62,
+        394,
+        440
+      ],
+      "minimumMargin": 0.12109375,
+      "sha256": "8943bf474dd28628b366c6ea2ec8f939885c454e203f2366d0c7f6749a5b1de2"
+    },
+    {
+      "id": "W-ANI-IDLE_f2",
+      "path": "widgets/W-ANI-IDLE_f2.png",
+      "width": 512,
+      "height": 512,
+      "bytes": 141554,
+      "transparent": true,
+      "visibleBounds": [
+        84,
+        52,
+        394,
+        430
+      ],
+      "minimumMargin": 0.1015625,
+      "sha256": "0c3b617c55d27ca4f346f87a6c4f3585e13c8a5724590e23c2f30c5f4c4b2e13"
+    },
+    {
+      "id": "W-ANI-IDLE_f3",
+      "path": "widgets/W-ANI-IDLE_f3.png",
+      "width": 512,
+      "height": 512,
+      "bytes": 141457,
+      "transparent": true,
+      "visibleBounds": [
+        84,
+        62,
+        394,
+        440
+      ],
+      "minimumMargin": 0.12109375,
+      "sha256": "796480185f40dd0aedcadda7da17150c1881300d83f03e0b66b9f2ed13b139bc"
+    },
+    {
+      "id": "W-MEDIUM",
+      "path": "widgets/W-MEDIUM.png",
+      "width": 1024,
+      "height": 512,
+      "bytes": 11694,
+      "transparent": false,
+      "visibleBounds": [
+        0,
+        0,
+        1024,
+        512
+      ],
+      "minimumMargin": null,
+      "sha256": "98457943edaf1c7d38f99281c6afe14ff5c7c3cda9f88343bc893a96ce4f7fdd"
+    },
+    {
+      "id": "W-SMALL",
+      "path": "widgets/W-SMALL.png",
+      "width": 512,
+      "height": 512,
+      "bytes": 9938,
+      "transparent": false,
+      "visibleBounds": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "minimumMargin": null,
+      "sha256": "113e6b26b5b3b598cd9d7803d9a489b44cb726d2adc2cec68625afc4cbc94e96"
+    },
+    {
+      "id": "C-BAKERY",
+      "path": "categories/C-BAKERY.png",
+      "width": 720,
+      "height": 720,
+      "bytes": 34285,
+      "transparent": true,
+      "visibleBounds": [
+        79,
+        195,
+        637,
+        654
+      ],
+      "minimumMargin": 0.09166666666666666,
+      "sha256": "309346c5558bb85b018213dbb701b804b81b75b41b91db88ccd6a58c236f51d5"
+    },
+    {
+      "id": "C-CHICKEN",
+      "path": "categories/C-CHICKEN.png",
+      "width": 720,
+      "height": 720,
+      "bytes": 41574,
+      "transparent": true,
+      "visibleBounds": [
+        88,
+        124,
+        632,
+        649
+      ],
+      "minimumMargin": 0.09861111111111111,
+      "sha256": "63d56361d09fa56b055382d9edddc76a4d60849f048abd662d942d1637062c3e"
+    },
+    {
+      "id": "C-COFFEE",
+      "path": "categories/C-COFFEE.png",
+      "width": 720,
+      "height": 720,
+      "bytes": 40201,
+      "transparent": true,
+      "visibleBounds": [
+        91,
+        88,
+        647,
+        651
+      ],
+      "minimumMargin": 0.09583333333333334,
+      "sha256": "0d21890766e4b9e04e15d35a4bf8c26cd2cfd361698ebde6c00d4a0285203afd"
+    },
+    {
+      "id": "C-CVS",
+      "path": "categories/C-CVS.png",
+      "width": 720,
+      "height": 720,
+      "bytes": 25219,
+      "transparent": true,
+      "visibleBounds": [
+        125,
+        98,
+        599,
+        601
+      ],
+      "minimumMargin": 0.1361111111111111,
+      "sha256": "b61c97831577fec869dfa6c8e70b97e1c9b0df9dd602ffc36be161bcc40a9a48"
+    },
+    {
+      "id": "C-DISCOUNT",
+      "path": "categories/C-DISCOUNT.png",
+      "width": 720,
+      "height": 720,
+      "bytes": 42586,
+      "transparent": true,
+      "visibleBounds": [
+        91,
+        92,
+        629,
+        651
+      ],
+      "minimumMargin": 0.09583333333333334,
+      "sha256": "74de294bae7ef5891e3059825e4fd2e1768cb300dc5c00702f07aac5c127afd5"
+    },
+    {
+      "id": "C-GIFTCARD",
+      "path": "categories/C-GIFTCARD.png",
+      "width": 720,
+      "height": 720,
+      "bytes": 22850,
+      "transparent": true,
+      "visibleBounds": [
+        77,
+        143,
+        643,
+        581
+      ],
+      "minimumMargin": 0.10694444444444444,
+      "sha256": "7afc4270fa61caf0c864c0c96d79888f430cec256cbc0889ed80805766ea5dad"
+    },
+    {
+      "id": "C-MOBILE",
+      "path": "categories/C-MOBILE.png",
+      "width": 720,
+      "height": 720,
+      "bytes": 20360,
+      "transparent": true,
+      "visibleBounds": [
+        190,
+        78,
+        530,
+        648
+      ],
+      "minimumMargin": 0.1,
+      "sha256": "bfecda840c5c6911a5d7ce3ebeb52cc6b50790341255602c879399ce73108f32"
+    },
+    {
+      "id": "APP-ICON",
+      "path": "app/APP-ICON.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 1436007,
+      "transparent": false,
+      "visibleBounds": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "minimumMargin": null,
+      "sha256": "88c13f96ba5a7cd9cbd350909bf4364bbf5732309434bbc4e1ce995a1d3eab5d"
+    }
+  ]
+}
