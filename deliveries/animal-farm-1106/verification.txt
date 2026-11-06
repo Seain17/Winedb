@@ -1,0 +1,16 @@
+S-PRODUCT: dimensions, nonempty cells, alpha and >=8% margin PASS
+S-WORK: dimensions, nonempty cells, alpha and >=8% margin PASS
+S-WALK: dimensions, nonempty cells, alpha and >=8% margin PASS
+S-HOME: dimensions, nonempty cells, alpha and >=8% margin PASS
+S-FOOD: dimensions, nonempty cells, alpha and >=8% margin PASS
+S-EAT: dimensions, nonempty cells, alpha and >=8% margin PASS
+S-EMOTE: dimensions, nonempty cells, alpha and >=8% margin PASS
+S-ARRIVE: dimensions, nonempty cells, alpha and >=8% margin PASS
+S-ARRIVE_2: dimensions, nonempty cells, alpha and >=8% margin PASS
+S-LOCKED: dimensions, nonempty cells, alpha and >=8% margin PASS
+S-COIN2: dimensions, nonempty cells, alpha and >=8% margin PASS
+S-FX2: dimensions, nonempty cells, alpha and >=8% margin PASS
+S-WIDGET-ANI: dimensions, nonempty cells, alpha and >=8% margin PASS
+S-BG-LV_1: size, opaque and original central lawn unchanged PASS
+S-BG-LV_2: size, opaque and original central lawn unchanged PASS
+Browser preview: 15 images loaded, 10 sprite previews, frame changes verified, 0 JS errors (Chromium)

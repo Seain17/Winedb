@@ -1,0 +1,1287 @@
+[
+  {
+    "id": "S-PRODUCT",
+    "file": "sheets/S-PRODUCT.png",
+    "width": 1280,
+    "height": 256,
+    "columns": 5,
+    "rows": 1,
+    "cell_size": 256,
+    "transparent": true,
+    "cells": [
+      {
+        "id": "apple",
+        "x": 0,
+        "y": 0,
+        "width": 256,
+        "height": 256,
+        "visible_bbox": [
+          48,
+          54,
+          208,
+          211
+        ]
+      },
+      {
+        "id": "yuzu",
+        "x": 256,
+        "y": 0,
+        "width": 256,
+        "height": 256,
+        "visible_bbox": [
+          48,
+          55,
+          208,
+          211
+        ]
+      },
+      {
+        "id": "wool",
+        "x": 512,
+        "y": 0,
+        "width": 256,
+        "height": 256,
+        "visible_bbox": [
+          48,
+          60,
+          208,
+          211
+        ]
+      },
+      {
+        "id": "acorn",
+        "x": 768,
+        "y": 0,
+        "width": 256,
+        "height": 256,
+        "visible_bbox": [
+          48,
+          56,
+          208,
+          211
+        ]
+      },
+      {
+        "id": "bamboo-shoot",
+        "x": 1024,
+        "y": 0,
+        "width": 256,
+        "height": 256,
+        "visible_bbox": [
+          48,
+          54,
+          208,
+          211
+        ]
+      }
+    ],
+    "sha256": "6c78a12d8a73095b809b77fb2bacd8a5a32931a3cdb15c694d477d1bb9dd2efd"
+  },
+  {
+    "id": "S-WORK",
+    "file": "sheets/S-WORK.png",
+    "width": 2560,
+    "height": 512,
+    "columns": 5,
+    "rows": 1,
+    "cell_size": 512,
+    "transparent": true,
+    "cells": [
+      {
+        "id": "A1",
+        "x": 0,
+        "y": 0,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          47,
+          114,
+          465,
+          458
+        ]
+      },
+      {
+        "id": "A2",
+        "x": 512,
+        "y": 0,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          47,
+          112,
+          465,
+          458
+        ]
+      },
+      {
+        "id": "A3",
+        "x": 1024,
+        "y": 0,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          57,
+          78,
+          455,
+          458
+        ]
+      },
+      {
+        "id": "A4",
+        "x": 1536,
+        "y": 0,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          47,
+          132,
+          465,
+          458
+        ]
+      },
+      {
+        "id": "A5",
+        "x": 2048,
+        "y": 0,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          56,
+          78,
+          456,
+          458
+        ]
+      }
+    ],
+    "sha256": "bba12945f509f70cf7ea842c175be915df14f265684dfde9f21b06c25c0e7559"
+  },
+  {
+    "id": "S-WALK",
+    "file": "sheets/S-WALK.png",
+    "width": 1536,
+    "height": 2560,
+    "columns": 3,
+    "rows": 5,
+    "cell_size": 512,
+    "transparent": true,
+    "cells": [
+      {
+        "id": "A1_f1",
+        "x": 0,
+        "y": 0,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          54,
+          141,
+          458,
+          440
+        ]
+      },
+      {
+        "id": "A1_f2",
+        "x": 512,
+        "y": 0,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          50,
+          140,
+          462,
+          440
+        ]
+      },
+      {
+        "id": "A1_f3",
+        "x": 1024,
+        "y": 0,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          49,
+          141,
+          463,
+          440
+        ]
+      },
+      {
+        "id": "A2_f1",
+        "x": 0,
+        "y": 512,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          92,
+          140,
+          420,
+          440
+        ]
+      },
+      {
+        "id": "A2_f2",
+        "x": 512,
+        "y": 512,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          95,
+          140,
+          417,
+          440
+        ]
+      },
+      {
+        "id": "A2_f3",
+        "x": 1024,
+        "y": 512,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          94,
+          140,
+          418,
+          440
+        ]
+      },
+      {
+        "id": "A3_f1",
+        "x": 0,
+        "y": 1024,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          84,
+          141,
+          428,
+          440
+        ]
+      },
+      {
+        "id": "A3_f2",
+        "x": 512,
+        "y": 1024,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          85,
+          140,
+          427,
+          440
+        ]
+      },
+      {
+        "id": "A3_f3",
+        "x": 1024,
+        "y": 1024,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          85,
+          140,
+          427,
+          440
+        ]
+      },
+      {
+        "id": "A4_f1",
+        "x": 0,
+        "y": 1536,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          49,
+          140,
+          463,
+          440
+        ]
+      },
+      {
+        "id": "A4_f2",
+        "x": 512,
+        "y": 1536,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          47,
+          143,
+          465,
+          440
+        ]
+      },
+      {
+        "id": "A4_f3",
+        "x": 1024,
+        "y": 1536,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          47,
+          149,
+          465,
+          440
+        ]
+      },
+      {
+        "id": "A5_f1",
+        "x": 0,
+        "y": 2048,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          86,
+          140,
+          426,
+          440
+        ]
+      },
+      {
+        "id": "A5_f2",
+        "x": 512,
+        "y": 2048,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          102,
+          140,
+          410,
+          440
+        ]
+      },
+      {
+        "id": "A5_f3",
+        "x": 1024,
+        "y": 2048,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          91,
+          140,
+          422,
+          440
+        ]
+      }
+    ],
+    "sha256": "ee0e36e9d52538868ce090f9a74cbc9cafb328f7b8c8f7ee4baab6b8b514c9e4"
+  },
+  {
+    "id": "S-HOME",
+    "file": "sheets/S-HOME.png",
+    "width": 2560,
+    "height": 512,
+    "columns": 5,
+    "rows": 1,
+    "cell_size": 512,
+    "transparent": true,
+    "cells": [
+      {
+        "id": "A1",
+        "x": 0,
+        "y": 0,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          78,
+          72,
+          434,
+          452
+        ]
+      },
+      {
+        "id": "A2",
+        "x": 512,
+        "y": 0,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          47,
+          122,
+          465,
+          452
+        ]
+      },
+      {
+        "id": "A3",
+        "x": 1024,
+        "y": 0,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          50,
+          72,
+          462,
+          452
+        ]
+      },
+      {
+        "id": "A4",
+        "x": 1536,
+        "y": 0,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          68,
+          72,
+          444,
+          452
+        ]
+      },
+      {
+        "id": "A5",
+        "x": 2048,
+        "y": 0,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          55,
+          72,
+          457,
+          452
+        ]
+      }
+    ],
+    "sha256": "a576d232574767a0d7f7fbb5c22ea5536814d751942d7e18f143c9467fd87b69"
+  },
+  {
+    "id": "S-FOOD",
+    "file": "sheets/S-FOOD.png",
+    "width": 1536,
+    "height": 256,
+    "columns": 6,
+    "rows": 1,
+    "cell_size": 256,
+    "transparent": true,
+    "cells": [
+      {
+        "id": "apple-berries",
+        "x": 0,
+        "y": 0,
+        "width": 256,
+        "height": 256,
+        "visible_bbox": [
+          47,
+          76,
+          209,
+          211
+        ]
+      },
+      {
+        "id": "yuzu-watermelon",
+        "x": 256,
+        "y": 0,
+        "width": 256,
+        "height": 256,
+        "visible_bbox": [
+          47,
+          78,
+          209,
+          211
+        ]
+      },
+      {
+        "id": "clover-hay",
+        "x": 512,
+        "y": 0,
+        "width": 256,
+        "height": 256,
+        "visible_bbox": [
+          47,
+          81,
+          209,
+          211
+        ]
+      },
+      {
+        "id": "acorn-sunflower",
+        "x": 768,
+        "y": 0,
+        "width": 256,
+        "height": 256,
+        "visible_bbox": [
+          47,
+          78,
+          209,
+          211
+        ]
+      },
+      {
+        "id": "bamboo-shoot",
+        "x": 1024,
+        "y": 0,
+        "width": 256,
+        "height": 256,
+        "visible_bbox": [
+          47,
+          75,
+          209,
+          211
+        ]
+      },
+      {
+        "id": "special-snack",
+        "x": 1280,
+        "y": 0,
+        "width": 256,
+        "height": 256,
+        "visible_bbox": [
+          47,
+          48,
+          209,
+          211
+        ]
+      }
+    ],
+    "sha256": "88ca811925a554eaf7dd2bfe87a8f7331d273de1a28d942ff85762f416a1ef0b"
+  },
+  {
+    "id": "S-EAT",
+    "file": "sheets/S-EAT.png",
+    "width": 2560,
+    "height": 512,
+    "columns": 5,
+    "rows": 1,
+    "cell_size": 512,
+    "transparent": true,
+    "cells": [
+      {
+        "id": "A1",
+        "x": 0,
+        "y": 0,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          47,
+          157,
+          465,
+          458
+        ]
+      },
+      {
+        "id": "A2",
+        "x": 512,
+        "y": 0,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          47,
+          91,
+          465,
+          458
+        ]
+      },
+      {
+        "id": "A3",
+        "x": 1024,
+        "y": 0,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          47,
+          84,
+          465,
+          458
+        ]
+      },
+      {
+        "id": "A4",
+        "x": 1536,
+        "y": 0,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          47,
+          113,
+          465,
+          458
+        ]
+      },
+      {
+        "id": "A5",
+        "x": 2048,
+        "y": 0,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          63,
+          78,
+          449,
+          458
+        ]
+      }
+    ],
+    "sha256": "a0d8f488fb410e4250a942c4ade9b56c7793d8bbf052486f3135d90f01de8b04"
+  },
+  {
+    "id": "S-EMOTE",
+    "file": "sheets/S-EMOTE.png",
+    "width": 1024,
+    "height": 128,
+    "columns": 8,
+    "rows": 1,
+    "cell_size": 128,
+    "transparent": true,
+    "cells": [
+      {
+        "id": "heart",
+        "x": 0,
+        "y": 0,
+        "width": 128,
+        "height": 128,
+        "visible_bbox": [
+          27,
+          34,
+          101,
+          96
+        ]
+      },
+      {
+        "id": "music",
+        "x": 128,
+        "y": 0,
+        "width": 128,
+        "height": 128,
+        "visible_bbox": [
+          34,
+          23,
+          93,
+          96
+        ]
+      },
+      {
+        "id": "exclamation",
+        "x": 256,
+        "y": 0,
+        "width": 128,
+        "height": 128,
+        "visible_bbox": [
+          55,
+          25,
+          73,
+          101
+        ]
+      },
+      {
+        "id": "question",
+        "x": 384,
+        "y": 0,
+        "width": 128,
+        "height": 128,
+        "visible_bbox": [
+          40,
+          23,
+          90,
+          100
+        ]
+      },
+      {
+        "id": "sleep-cloud",
+        "x": 512,
+        "y": 0,
+        "width": 128,
+        "height": 128,
+        "visible_bbox": [
+          22,
+          34,
+          107,
+          85
+        ]
+      },
+      {
+        "id": "sparkle",
+        "x": 640,
+        "y": 0,
+        "width": 128,
+        "height": 128,
+        "visible_bbox": [
+          26,
+          26,
+          102,
+          102
+        ]
+      },
+      {
+        "id": "empty-bowl",
+        "x": 768,
+        "y": 0,
+        "width": 128,
+        "height": 128,
+        "visible_bbox": [
+          23,
+          61,
+          105,
+          106
+        ]
+      },
+      {
+        "id": "full-basket",
+        "x": 896,
+        "y": 0,
+        "width": 128,
+        "height": 128,
+        "visible_bbox": [
+          24,
+          27,
+          104,
+          106
+        ]
+      }
+    ],
+    "sha256": "088f9f175db73b88aa150350e228c8caf9dbd5def8c677d476dbc165fd0d4a86"
+  },
+  {
+    "id": "S-ARRIVE",
+    "file": "sheets/S-ARRIVE.png",
+    "width": 2560,
+    "height": 512,
+    "columns": 5,
+    "rows": 1,
+    "cell_size": 512,
+    "transparent": true,
+    "cells": [
+      {
+        "id": "A1",
+        "x": 0,
+        "y": 0,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          64,
+          78,
+          449,
+          458
+        ]
+      },
+      {
+        "id": "A2",
+        "x": 512,
+        "y": 0,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          80,
+          78,
+          432,
+          458
+        ]
+      },
+      {
+        "id": "A3",
+        "x": 1024,
+        "y": 0,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          71,
+          78,
+          441,
+          458
+        ]
+      },
+      {
+        "id": "A4",
+        "x": 1536,
+        "y": 0,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          47,
+          107,
+          464,
+          458
+        ]
+      },
+      {
+        "id": "A5",
+        "x": 2048,
+        "y": 0,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          84,
+          78,
+          428,
+          458
+        ]
+      }
+    ],
+    "sha256": "73d6ce32801cd90da90f454948310d6978be76dfcfd6559615c188ba099c85a1"
+  },
+  {
+    "id": "S-ARRIVE_2",
+    "file": "sheets/S-ARRIVE_2.png",
+    "width": 1024,
+    "height": 1024,
+    "columns": 1,
+    "rows": 1,
+    "cell_size": 1024,
+    "transparent": true,
+    "cells": [
+      {
+        "id": "A1",
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "visible_bbox": [
+          179,
+          158,
+          846,
+          900
+        ]
+      }
+    ],
+    "sha256": "7ae7e86f247be4839d2f6855daaf259bbe063d8b0101ba2f9e26738d1424559d"
+  },
+  {
+    "id": "S-LOCKED",
+    "file": "sheets/S-LOCKED.png",
+    "width": 1280,
+    "height": 256,
+    "columns": 5,
+    "rows": 1,
+    "cell_size": 256,
+    "transparent": true,
+    "cells": [
+      {
+        "id": "A1",
+        "x": 0,
+        "y": 0,
+        "width": 256,
+        "height": 256,
+        "visible_bbox": [
+          26,
+          70,
+          230,
+          220
+        ]
+      },
+      {
+        "id": "A2",
+        "x": 256,
+        "y": 0,
+        "width": 256,
+        "height": 256,
+        "visible_bbox": [
+          45,
+          70,
+          211,
+          220
+        ]
+      },
+      {
+        "id": "A3",
+        "x": 512,
+        "y": 0,
+        "width": 256,
+        "height": 256,
+        "visible_bbox": [
+          42,
+          70,
+          214,
+          220
+        ]
+      },
+      {
+        "id": "A4",
+        "x": 768,
+        "y": 0,
+        "width": 256,
+        "height": 256,
+        "visible_bbox": [
+          25,
+          70,
+          231,
+          220
+        ]
+      },
+      {
+        "id": "A5",
+        "x": 1024,
+        "y": 0,
+        "width": 256,
+        "height": 256,
+        "visible_bbox": [
+          48,
+          70,
+          209,
+          220
+        ]
+      }
+    ],
+    "sha256": "d81aaf42226eaf7e5866b1c69d38760bb9c02e23e61cd1d5eb95633a746c17a5"
+  },
+  {
+    "id": "S-COIN2",
+    "file": "sheets/S-COIN2.png",
+    "width": 384,
+    "height": 128,
+    "columns": 3,
+    "rows": 1,
+    "cell_size": 128,
+    "transparent": true,
+    "cells": [
+      {
+        "id": "single",
+        "x": 0,
+        "y": 0,
+        "width": 128,
+        "height": 128,
+        "visible_bbox": [
+          27,
+          27,
+          101,
+          101
+        ]
+      },
+      {
+        "id": "three",
+        "x": 128,
+        "y": 0,
+        "width": 128,
+        "height": 128,
+        "visible_bbox": [
+          21,
+          13,
+          105,
+          87
+        ]
+      },
+      {
+        "id": "basket",
+        "x": 256,
+        "y": 0,
+        "width": 128,
+        "height": 128,
+        "visible_bbox": [
+          24,
+          14,
+          105,
+          106
+        ]
+      }
+    ],
+    "sha256": "66fb8feb0975799b8adb4c78d0dbad06e8aaf68785a52ac3006ca7197bc72ef1"
+  },
+  {
+    "id": "S-FX2",
+    "file": "sheets/S-FX2.png",
+    "width": 1536,
+    "height": 256,
+    "columns": 6,
+    "rows": 1,
+    "cell_size": 256,
+    "transparent": true,
+    "cells": [
+      {
+        "id": "dust",
+        "x": 0,
+        "y": 0,
+        "width": 256,
+        "height": 256,
+        "visible_bbox": [
+          54,
+          97,
+          200,
+          185
+        ]
+      },
+      {
+        "id": "water",
+        "x": 256,
+        "y": 0,
+        "width": 256,
+        "height": 256,
+        "visible_bbox": [
+          56,
+          53,
+          196,
+          164
+        ]
+      },
+      {
+        "id": "wool",
+        "x": 512,
+        "y": 0,
+        "width": 256,
+        "height": 256,
+        "visible_bbox": [
+          53,
+          62,
+          202,
+          182
+        ]
+      },
+      {
+        "id": "leaves",
+        "x": 768,
+        "y": 0,
+        "width": 256,
+        "height": 256,
+        "visible_bbox": [
+          53,
+          56,
+          197,
+          184
+        ]
+      },
+      {
+        "id": "bamboo-leaves",
+        "x": 1024,
+        "y": 0,
+        "width": 256,
+        "height": 256,
+        "visible_bbox": [
+          68,
+          67,
+          188,
+          189
+        ]
+      },
+      {
+        "id": "falling-apple",
+        "x": 1280,
+        "y": 0,
+        "width": 256,
+        "height": 256,
+        "visible_bbox": [
+          81,
+          42,
+          184,
+          196
+        ]
+      }
+    ],
+    "sha256": "c91b228ca42292add0957805248baefe6a30ed631e0447929ae59d877dd5d5b5"
+  },
+  {
+    "id": "S-WIDGET-ANI",
+    "file": "sheets/S-WIDGET-ANI.png",
+    "width": 1536,
+    "height": 2560,
+    "columns": 3,
+    "rows": 5,
+    "cell_size": 512,
+    "transparent": true,
+    "cells": [
+      {
+        "id": "A1_f1",
+        "x": 0,
+        "y": 0,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          53,
+          140,
+          459,
+          440
+        ]
+      },
+      {
+        "id": "A1_f2",
+        "x": 512,
+        "y": 0,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          51,
+          135,
+          461,
+          440
+        ]
+      },
+      {
+        "id": "A1_f3",
+        "x": 1024,
+        "y": 0,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          47,
+          144,
+          465,
+          440
+        ]
+      },
+      {
+        "id": "A2_f1",
+        "x": 0,
+        "y": 512,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          91,
+          140,
+          421,
+          440
+        ]
+      },
+      {
+        "id": "A2_f2",
+        "x": 512,
+        "y": 512,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          90,
+          135,
+          422,
+          440
+        ]
+      },
+      {
+        "id": "A2_f3",
+        "x": 1024,
+        "y": 512,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          91,
+          140,
+          421,
+          440
+        ]
+      },
+      {
+        "id": "A3_f1",
+        "x": 0,
+        "y": 1024,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          85,
+          140,
+          427,
+          440
+        ]
+      },
+      {
+        "id": "A3_f2",
+        "x": 512,
+        "y": 1024,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          84,
+          135,
+          428,
+          440
+        ]
+      },
+      {
+        "id": "A3_f3",
+        "x": 1024,
+        "y": 1024,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          81,
+          140,
+          431,
+          440
+        ]
+      },
+      {
+        "id": "A4_f1",
+        "x": 0,
+        "y": 1536,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          50,
+          140,
+          462,
+          440
+        ]
+      },
+      {
+        "id": "A4_f2",
+        "x": 512,
+        "y": 1536,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          48,
+          135,
+          464,
+          440
+        ]
+      },
+      {
+        "id": "A4_f3",
+        "x": 1024,
+        "y": 1536,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          47,
+          151,
+          465,
+          440
+        ]
+      },
+      {
+        "id": "A5_f1",
+        "x": 0,
+        "y": 2048,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          95,
+          140,
+          417,
+          440
+        ]
+      },
+      {
+        "id": "A5_f2",
+        "x": 512,
+        "y": 2048,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          94,
+          135,
+          418,
+          440
+        ]
+      },
+      {
+        "id": "A5_f3",
+        "x": 1024,
+        "y": 2048,
+        "width": 512,
+        "height": 512,
+        "visible_bbox": [
+          95,
+          140,
+          417,
+          440
+        ]
+      }
+    ],
+    "sha256": "d35d4aa01a40bd130155716dfe3b4675f10fca3022766cd3017fee71c2fd99e1"
+  },
+  {
+    "id": "S-BG-LV_1",
+    "file": "sheets/S-BG-LV_1.png",
+    "width": 1170,
+    "height": 2532,
+    "transparent": false,
+    "safe_zone_y": [
+      0.38,
+      0.66
+    ],
+    "sha256": "fdaba98d3cbab2ae0b0bebd6d51a4f22342376fcd79e83ccb4dc6bb61db6c7a0"
+  },
+  {
+    "id": "S-BG-LV_2",
+    "file": "sheets/S-BG-LV_2.png",
+    "width": 1170,
+    "height": 2532,
+    "transparent": false,
+    "safe_zone_y": [
+      0.38,
+      0.66
+    ],
+    "sha256": "373c03a7eb8a4107e8752cca6bb1c2195ff65b97f8506639f3d7754886ed8349"
+  }
+]
