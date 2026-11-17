@@ -1,0 +1,23 @@
+16 sheets / 55 cells
+PNG dimensions, RGBA, nonempty cells and transparent margins: PASS
+At least 5% transparent margin on each cell side (at least 10% gap between adjacent cells).
+Image content reviewed visually; this is not an app integration test.
+
+PASS S-SLEEP.png | 2560x512 | RGBA | 5 cells | horizontal margin >= 51px per side
+PASS S-GRADUATE.png | 2560x512 | RGBA | 5 cells | horizontal margin >= 57px per side
+PASS FX-LVUP-BURST.png | 1536x384 | RGBA | 4 cells | horizontal margin >= 38px per side
+PASS FX-HARVEST.png | 1536x384 | RGBA | 4 cells | horizontal margin >= 64px per side
+PASS FX-COIN-FLY.png | 288x96 | RGBA | 3 cells | horizontal margin >= 10px per side
+PASS S-COIN-ANI.png | 384x128 | RGBA | 3 cells | horizontal margin >= 20px per side
+PASS FX-FEED-POUR.png | 1024x256 | RGBA | 4 cells | horizontal margin >= 36px per side
+PASS FX-BOOST-AURA.png | 1152x384 | RGBA | 3 cells | horizontal margin >= 54px per side
+PASS I-FEED-BOWL.png | 256x128 | RGBA | 2 cells | horizontal margin >= 13px per side
+PASS FX-CONFETTI.png | 1536x512 | RGBA | 3 cells | horizontal margin >= 41px per side
+PASS FX-LAP.png | 2160x720 | RGBA | 3 cells | horizontal margin >= 155px per side
+PASS S-GROUP5.png | 1024x1024 | RGBA | 1 cells | horizontal margin >= 71px per side
+PASS S-HAPPY.png | 2560x512 | RGBA | 5 cells | horizontal margin >= 51px per side
+PASS FX-STORE-FULL.png | 768x256 | RGBA | 3 cells | horizontal margin >= 37px per side
+PASS FX-EASY-POP.png | 1024x256 | RGBA | 4 cells | horizontal margin >= 33px per side
+PASS FX-EASY-GET.png | 768x256 | RGBA | 3 cells | horizontal margin >= 72px per side
+
+Preview browser check: 16/16 images loaded; A5 slider selection and pause control PASS; JavaScript errors: 0.
