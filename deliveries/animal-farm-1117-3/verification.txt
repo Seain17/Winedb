@@ -1,0 +1,149 @@
+PASS 60 PNG files: 56 required + 4 optional (including separate gauge fill)
+PASS 22 priority 1–3 files
+PASS 34 stage background/object files
+PASS B-CHARGE: exact canvas and RGBA
+PASS B-CHARGE: transparent cutout
+PASS B-CHARGE: left 62% fully transparent
+PASS I-CHARGE: exact canvas and RGBA
+PASS I-CHARGE: transparent cutout
+PASS I-MS-GAME: exact canvas and RGBA
+PASS I-MS-GAME: transparent cutout
+PASS I-MS-HARVEST: exact canvas and RGBA
+PASS I-MS-HARVEST: transparent cutout
+PASS I-MS-JOIN: exact canvas and RGBA
+PASS I-MS-JOIN: transparent cutout
+PASS I-TAB-MY_selected: exact canvas and RGBA
+PASS I-TAB-MY_selected: transparent cutout
+PASS I-TAB-MY_unselected: exact canvas and RGBA
+PASS I-TAB-MY_unselected: transparent cutout
+PASS S-LOCKED2: exact canvas and RGBA
+PASS S-LOCKED2: transparent cutout
+PASS S-LOCKED2: exact solid #C6C7C9, no interior patterns
+PASS S-LOCKED2: five distinct animal silhouettes
+PASS UI-MS-DONE: exact canvas and RGBA
+PASS UI-MS-DONE: transparent cutout
+PASS I-OW-CAT-APP: exact canvas and RGBA
+PASS I-OW-CAT-APP: transparent cutout
+PASS I-OW-CAT-GAME: exact canvas and RGBA
+PASS I-OW-CAT-GAME: transparent cutout
+PASS I-OW-CAT-JOIN: exact canvas and RGBA
+PASS I-OW-CAT-JOIN: transparent cutout
+PASS I-OW-CAT-SHOP: exact canvas and RGBA
+PASS I-OW-CAT-SHOP: transparent cutout
+PASS I-OW-CAT-SURVEY: exact canvas and RGBA
+PASS I-OW-CAT-SURVEY: transparent cutout
+PASS S-OW-EMPTY: exact canvas and RGBA
+PASS S-OW-EMPTY: transparent cutout
+PASS S-OW-ERROR: exact canvas and RGBA
+PASS S-OW-ERROR: transparent cutout
+PASS UI-OW-PENDING: exact canvas and RGBA
+PASS UI-OW-PENDING: transparent cutout
+PASS UI-EASY-GIFT: exact canvas and RGBA
+PASS UI-EASY-GIFT: transparent cutout
+PASS UI-FLOAT-CLOSE: exact canvas and RGBA
+PASS UI-FLOAT-CLOSE: transparent cutout
+PASS UI-FLOAT-RING: exact canvas and RGBA
+PASS UI-FLOAT-RING: transparent cutout
+PASS UI-FLOAT-RING: 50x50 center opening fully transparent
+PASS UI-FLOAT-RING_full: exact canvas and RGBA
+PASS UI-FLOAT-RING_full: transparent cutout
+PASS UI-FLOAT-RING_full: 50x50 center opening fully transparent
+PASS UI-PERM-OVERLAY: exact canvas and RGBA
+PASS UI-PERM-OVERLAY: transparent cutout
+PASS BG-FARM-DAY-ST1: exact canvas and RGBA
+PASS BG-FARM-DAY-ST1: opaque scene background
+PASS BG-FARM-DAY-ST2: exact canvas and RGBA
+PASS BG-FARM-DAY-ST2: opaque scene background
+PASS BG-FARM-DAY-ST3: exact canvas and RGBA
+PASS BG-FARM-DAY-ST3: opaque scene background
+PASS BG-FARM-DAY-ST4: exact canvas and RGBA
+PASS BG-FARM-DAY-ST4: opaque scene background
+PASS BG-FARM-DAY-ST5: exact canvas and RGBA
+PASS BG-FARM-DAY-ST5: opaque scene background
+PASS BG-FARM-NIGHT-ST1: exact canvas and RGBA
+PASS BG-FARM-NIGHT-ST1: opaque scene background
+PASS BG-FARM-NIGHT-ST2: exact canvas and RGBA
+PASS BG-FARM-NIGHT-ST2: opaque scene background
+PASS BG-FARM-NIGHT-ST3: exact canvas and RGBA
+PASS BG-FARM-NIGHT-ST3: opaque scene background
+PASS BG-FARM-NIGHT-ST4: exact canvas and RGBA
+PASS BG-FARM-NIGHT-ST4: opaque scene background
+PASS BG-FARM-NIGHT-ST5: exact canvas and RGBA
+PASS BG-FARM-NIGHT-ST5: opaque scene background
+PASS S-BARN-ST1: exact canvas and RGBA
+PASS S-BARN-ST1: transparent cutout
+PASS S-BARN-ST2: exact canvas and RGBA
+PASS S-BARN-ST2: transparent cutout
+PASS S-BARN-ST3: exact canvas and RGBA
+PASS S-BARN-ST3: transparent cutout
+PASS S-FENCE-ST1: exact canvas and RGBA
+PASS S-FENCE-ST1: transparent cutout
+PASS S-FENCE-ST2: exact canvas and RGBA
+PASS S-FENCE-ST2: transparent cutout
+PASS S-FENCE-ST3: exact canvas and RGBA
+PASS S-FENCE-ST3: transparent cutout
+PASS S-JOB-A1-ST1: exact canvas and RGBA
+PASS S-JOB-A1-ST1: transparent cutout
+PASS S-JOB-A1-ST2: exact canvas and RGBA
+PASS S-JOB-A1-ST2: transparent cutout
+PASS S-JOB-A1-ST3: exact canvas and RGBA
+PASS S-JOB-A1-ST3: transparent cutout
+PASS S-JOB-A2-ST1: exact canvas and RGBA
+PASS S-JOB-A2-ST1: transparent cutout
+PASS S-JOB-A2-ST2: exact canvas and RGBA
+PASS S-JOB-A2-ST2: transparent cutout
+PASS S-JOB-A2-ST3: exact canvas and RGBA
+PASS S-JOB-A2-ST3: transparent cutout
+PASS S-JOB-A3-ST1: exact canvas and RGBA
+PASS S-JOB-A3-ST1: transparent cutout
+PASS S-JOB-A3-ST2: exact canvas and RGBA
+PASS S-JOB-A3-ST2: transparent cutout
+PASS S-JOB-A3-ST3: exact canvas and RGBA
+PASS S-JOB-A3-ST3: transparent cutout
+PASS S-JOB-A4-ST1: exact canvas and RGBA
+PASS S-JOB-A4-ST1: transparent cutout
+PASS S-JOB-A4-ST2: exact canvas and RGBA
+PASS S-JOB-A4-ST2: transparent cutout
+PASS S-JOB-A4-ST3: exact canvas and RGBA
+PASS S-JOB-A4-ST3: transparent cutout
+PASS S-JOB-A5-ST1: exact canvas and RGBA
+PASS S-JOB-A5-ST1: transparent cutout
+PASS S-JOB-A5-ST2: exact canvas and RGBA
+PASS S-JOB-A5-ST2: transparent cutout
+PASS S-JOB-A5-ST3: exact canvas and RGBA
+PASS S-JOB-A5-ST3: transparent cutout
+PASS S-TREE-ST1: exact canvas and RGBA
+PASS S-TREE-ST1: transparent cutout
+PASS S-TREE-ST2: exact canvas and RGBA
+PASS S-TREE-ST2: transparent cutout
+PASS S-TREE-ST3: exact canvas and RGBA
+PASS S-TREE-ST3: transparent cutout
+PASS UI-GAUGE: exact canvas and RGBA
+PASS UI-GAUGE: transparent cutout
+PASS UI-GAUGE_fill: exact canvas and RGBA
+PASS UI-GAUGE_fill: transparent cutout
+PASS UI-HUD-COIN: exact canvas and RGBA
+PASS UI-HUD-COIN: transparent cutout
+PASS UI-LV-PILL: exact canvas and RGBA
+PASS UI-LV-PILL: transparent cutout
+PASS S-BARN: three distinct stages
+PASS S-BARN: identical canvas and ground anchor
+PASS S-FENCE: three distinct stages
+PASS S-FENCE: identical canvas and ground anchor
+PASS S-JOB-A1: three distinct stages
+PASS S-JOB-A1: identical canvas and ground anchor
+PASS S-JOB-A2: three distinct stages
+PASS S-JOB-A2: identical canvas and ground anchor
+PASS S-JOB-A3: three distinct stages
+PASS S-JOB-A3: identical canvas and ground anchor
+PASS S-JOB-A4: three distinct stages
+PASS S-JOB-A4: identical canvas and ground anchor
+PASS S-JOB-A5: three distinct stages
+PASS S-JOB-A5: identical canvas and ground anchor
+PASS S-TREE: three distinct stages
+PASS S-TREE: identical canvas and ground anchor
+PASS unique exact filenames
+
+Result: PASS
+Visual review: separate preview JPGs and preview.html; application integration is not tested.
+Browser preview: PASS — no page errors or broken images; priority filters 9/34 cards; close state toggle; object visibility toggle. See preview-check.json.
