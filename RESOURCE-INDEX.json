@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-17",
+  "count": 24,
+  "files": [
+    {
+      "path": "잔돈맞추기_SDK/gpt_src/mascot_sheet.png",
+      "width": 1024,
+      "height": 512,
+      "transparent": true,
+      "size": 198860,
+      "sha": "c05f2b4fdbd0d6d48eeb0b9a45e7d906caf60ae4"
+    },
+    {
+      "path": "잔돈맞추기_SDK/gpt_src/mission_image.png",
+      "width": 1024,
+      "height": 1024,
+      "transparent": false,
+      "size": 1023057,
+      "sha": "0e1e6142d985e1853d2e0ef63aa81302fc52c67b"
+    },
+    {
+      "path": "잔돈맞추기_SDK/gpt_src/banner_art.png",
+      "width": 1536,
+      "height": 1024,
+      "transparent": false,
+      "size": 795386,
+      "sha": "cae375e862ff1f3da5721246a8fab5cfcf12eaf4"
+    },
+    {
+      "path": "잔돈맞추기_SDK/gpt_src/play_background.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": false,
+      "size": 1252506,
+      "sha": "e0d3654be5b5949bdf153e7b9c36b00bc962722f"
+    },
+    {
+      "path": "잔돈맞추기_SDK/gpt_src/success_background.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": false,
+      "size": 1268341,
+      "sha": "648c28560dc882aef8d7172d36259834243c6af2"
+    },
+    {
+      "path": "잔돈맞추기_SDK/gpt_src/fail_background.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": false,
+      "size": 1238776,
+      "sha": "da82c5091292072f7b610e00913cf50b3eaa0c36"
+    },
+    {
+      "path": "잔돈맞추기_SDK/gpt_src/coins_sheet.png",
+      "width": 1536,
+      "height": 1024,
+      "transparent": true,
+      "size": 1332764,
+      "sha": "c62714537126662698b6b47f6127b1de71724ac9"
+    },
+    {
+      "path": "스미싱잡기_SDK/gpt_src/mascot_sheet.png",
+      "width": 1024,
+      "height": 512,
+      "transparent": true,
+      "size": 201398,
+      "sha": "c5e95fa7c703624d039922ff03d0e11cf31ec8ab"
+    },
+    {
+      "path": "스미싱잡기_SDK/gpt_src/mission_image.png",
+      "width": 1024,
+      "height": 1024,
+      "transparent": false,
+      "size": 965770,
+      "sha": "c9189ddd847f1e17c5d00516ac28b7883671c476"
+    },
+    {
+      "path": "스미싱잡기_SDK/gpt_src/banner_art.png",
+      "width": 1536,
+      "height": 1024,
+      "transparent": false,
+      "size": 817751,
+      "sha": "97eff3d5480cdc84b9fb90e44dcadf8062d8a4c7"
+    },
+    {
+      "path": "스미싱잡기_SDK/gpt_src/play_background.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": false,
+      "size": 1325451,
+      "sha": "f16e1e5797d588126ead6439eb95b470f28e43e7"
+    },
+    {
+      "path": "스미싱잡기_SDK/gpt_src/success_background.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": false,
+      "size": 1152635,
+      "sha": "dcdc765e378833aec78e7e2c8ce5b40789498b26"
+    },
+    {
+      "path": "스미싱잡기_SDK/gpt_src/fail_background.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": false,
+      "size": 1165147,
+      "sha": "4d090d63b4322ae6ce0690bc3ccc2a5891bef66f"
+    },
+    {
+      "path": "스미싱잡기_SDK/gpt_src/shield.png",
+      "width": 1024,
+      "height": 1024,
+      "transparent": true,
+      "size": 429613,
+      "sha": "6371e496a823ca664896f64ae56e0b36f2671d0f"
+    },
+    {
+      "path": "스미싱잡기_SDK/gpt_src/sender_icons_sheet.png",
+      "width": 1536,
+      "height": 1024,
+      "transparent": true,
+      "size": 1460884,
+      "sha": "c307708591da0cf3f8263ab2142488998bb08250"
+    },
+    {
+      "path": "알뜰장보기_SDK/gpt_src/mascot_sheet.png",
+      "width": 1024,
+      "height": 512,
+      "transparent": true,
+      "size": 177957,
+      "sha": "ffa3daa9567162add544bfde4e4631667147180a"
+    },
+    {
+      "path": "알뜰장보기_SDK/gpt_src/mission_image.png",
+      "width": 1024,
+      "height": 1024,
+      "transparent": false,
+      "size": 1016491,
+      "sha": "b5aa1c91d187303a370741d0ce44e67afb1679d4"
+    },
+    {
+      "path": "알뜰장보기_SDK/gpt_src/banner_art.png",
+      "width": 1536,
+      "height": 1024,
+      "transparent": false,
+      "size": 863416,
+      "sha": "b77c22b5a2a2c073ba989beecbf23e713891065a"
+    },
+    {
+      "path": "알뜰장보기_SDK/gpt_src/play_background.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": false,
+      "size": 1279829,
+      "sha": "77150b8753dd5b1811734a5598ad3926becf7b16"
+    },
+    {
+      "path": "알뜰장보기_SDK/gpt_src/success_background.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": false,
+      "size": 1247417,
+      "sha": "884029e9c2ae88e634f781bd7aca056e63530247"
+    },
+    {
+      "path": "알뜰장보기_SDK/gpt_src/fail_background.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": false,
+      "size": 1334542,
+      "sha": "e9b44e61f121ec640e38ee017fc5356fc5ebac15"
+    },
+    {
+      "path": "알뜰장보기_SDK/gpt_src/items_sheet_1.png",
+      "width": 1536,
+      "height": 1024,
+      "transparent": true,
+      "size": 1492669,
+      "sha": "83a3362e9f6949b5544919e02b5f78d89c88e057"
+    },
+    {
+      "path": "알뜰장보기_SDK/gpt_src/items_sheet_2.png",
+      "width": 1536,
+      "height": 1024,
+      "transparent": true,
+      "size": 1537285,
+      "sha": "a73a864093044b5f56f5a5015f5c8105db1d4878"
+    },
+    {
+      "path": "알뜰장보기_SDK/gpt_src/cart.png",
+      "width": 1024,
+      "height": 1024,
+      "transparent": true,
+      "size": 519414,
+      "sha": "5ea27663d9cce648fbfa7dbff8be2a396076a6c4"
+    }
+  ]
+}
