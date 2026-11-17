@@ -1,0 +1,26 @@
+16 sheets / 55 cells; exactly 4 revised, 12 byte-identical.
+
+PASS S-SLEEP: 2560x512, RGBA, 5 cells, margin >= 51px (byte-identical to 1117)
+PASS S-GRADUATE: 2560x512, RGBA, 5 cells, margin >= 57px (byte-identical to 1117)
+PASS FX-LVUP-BURST: 1536x384, RGBA, 4 cells, margin >= 38px (byte-identical to 1117)
+PASS FX-HARVEST: 1536x384, RGBA, 4 cells, margin >= 64px (byte-identical to 1117)
+PASS FX-COIN-FLY: 288x96, RGBA, 3 cells, margin >= 10px (byte-identical to 1117)
+PASS S-COIN-ANI: 384x128, RGBA, 3 cells, margin >= 14px (revised)
+PASS FX-FEED-POUR: 1024x256, RGBA, 4 cells, margin >= 36px (byte-identical to 1117)
+PASS FX-BOOST-AURA: 1152x384, RGBA, 3 cells, margin >= 31px (revised)
+PASS I-FEED-BOWL: 256x128, RGBA, 2 cells, margin >= 13px (byte-identical to 1117)
+PASS FX-CONFETTI: 1536x512, RGBA, 3 cells, margin >= 41px (byte-identical to 1117)
+PASS FX-LAP: 2160x720, RGBA, 3 cells, margin >= 155px (byte-identical to 1117)
+PASS S-GROUP5: 1024x1024, RGBA, 1 cells, margin >= 51px (revised)
+PASS S-HAPPY: 2560x512, RGBA, 5 cells, margin >= 51px (byte-identical to 1117)
+PASS FX-STORE-FULL: 768x256, RGBA, 3 cells, margin >= 37px (byte-identical to 1117)
+PASS FX-EASY-POP: 1024x256, RGBA, 4 cells, margin >= 33px (byte-identical to 1117)
+PASS FX-EASY-GET: 768x256, RGBA, 3 cells, margin >= 53px (revised)
+PASS S-GROUP5: width 922/1024 pixels, 90.04%; content begins y=687, upper 40% clear.
+PASS FX-BOOST-AURA: all 3 central safe areas have alpha=0.
+PASS FX-EASY-GET: all 3 central safe areas have alpha=0.
+PASS S-COIN-ANI: identical 90x90 coin at (19,19) in all frames; differences restricted to upper-left light overlay. Coin occupies 70.31% of cell.
+PASS FX-BOOST-AURA: peak alpha 83 -> 204 (2.46x); white outlined yellow/lime particles.
+
+PASS preview browser checks: 16 images loaded; slider, play/pause, sky/grass/night backgrounds and 390px mobile layout; JavaScript errors=0.
+Coin art also visually inspected at 16px and 24px output size.

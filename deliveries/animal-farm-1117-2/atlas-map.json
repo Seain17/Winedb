@@ -1,0 +1,1136 @@
+{
+  "version": 1,
+  "date": "2026-11-17",
+  "styleReference": "Seain17/Winedb codex/animal-farm-resources-1106",
+  "animalOrder": [
+    "A1 레서판다 · 노랑",
+    "A2 카피바라 · 초록",
+    "A3 양 · 분홍",
+    "A4 하늘다람쥐 · 하늘",
+    "A5 아기판다 · 주황"
+  ],
+  "sheets": [
+    {
+      "id": "S-SLEEP",
+      "file": "sheets/S-SLEEP.png",
+      "width": 2560,
+      "height": 512,
+      "cellWidth": 512,
+      "cellHeight": 512,
+      "count": 5,
+      "kind": "characters",
+      "frameDurationMs": 120,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "frameOrder": [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5"
+      ],
+      "frames": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "x": 512,
+          "y": 0,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "x": 1024,
+          "y": 0,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "x": 1536,
+          "y": 0,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "x": 2048,
+          "y": 0,
+          "w": 512,
+          "h": 512
+        }
+      ],
+      "sha256": "a72fe83e246847cbd87bb6ea517fb6171f4ec6cb60f03ef4ba6aa8086e56fcb9",
+      "alphaBounds": [
+        {
+          "left": 66,
+          "top": 173,
+          "right": 444,
+          "bottom": 460
+        },
+        {
+          "left": 61,
+          "top": 150,
+          "right": 449,
+          "bottom": 460
+        },
+        {
+          "left": 53,
+          "top": 137,
+          "right": 458,
+          "bottom": 460
+        },
+        {
+          "left": 51,
+          "top": 179,
+          "right": 460,
+          "bottom": 460
+        },
+        {
+          "left": 69,
+          "top": 135,
+          "right": 441,
+          "bottom": 460
+        }
+      ],
+      "minHorizontalMarginPx": 51
+    },
+    {
+      "id": "S-GRADUATE",
+      "file": "sheets/S-GRADUATE.png",
+      "width": 2560,
+      "height": 512,
+      "cellWidth": 512,
+      "cellHeight": 512,
+      "count": 5,
+      "kind": "characters",
+      "frameDurationMs": 120,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "frameOrder": [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5"
+      ],
+      "frames": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "x": 512,
+          "y": 0,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "x": 1024,
+          "y": 0,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "x": 1536,
+          "y": 0,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "x": 2048,
+          "y": 0,
+          "w": 512,
+          "h": 512
+        }
+      ],
+      "sha256": "0ccf5f5eb0773d8eb2c773eec94f58284b4562d01047e0e0aabec142d71e7092",
+      "alphaBounds": [
+        {
+          "left": 59,
+          "top": 87,
+          "right": 452,
+          "bottom": 460
+        },
+        {
+          "left": 78,
+          "top": 51,
+          "right": 434,
+          "bottom": 460
+        },
+        {
+          "left": 70,
+          "top": 53,
+          "right": 442,
+          "bottom": 459
+        },
+        {
+          "left": 58,
+          "top": 79,
+          "right": 454,
+          "bottom": 460
+        },
+        {
+          "left": 66,
+          "top": 54,
+          "right": 445,
+          "bottom": 459
+        }
+      ],
+      "minHorizontalMarginPx": 57
+    },
+    {
+      "id": "FX-LVUP-BURST",
+      "file": "sheets/FX-LVUP-BURST.png",
+      "width": 1536,
+      "height": 384,
+      "cellWidth": 384,
+      "cellHeight": 384,
+      "count": 4,
+      "kind": "once",
+      "frameDurationMs": 120,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "frameOrder": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "frames": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 384,
+          "h": 384
+        },
+        {
+          "x": 384,
+          "y": 0,
+          "w": 384,
+          "h": 384
+        },
+        {
+          "x": 768,
+          "y": 0,
+          "w": 384,
+          "h": 384
+        },
+        {
+          "x": 1152,
+          "y": 0,
+          "w": 384,
+          "h": 384
+        }
+      ],
+      "sha256": "5ca232ba32e47110ff93075f969e425da51c97f04c36481a69fd9bdbd68ca602",
+      "alphaBounds": [
+        {
+          "left": 76,
+          "top": 70,
+          "right": 307,
+          "bottom": 312
+        },
+        {
+          "left": 38,
+          "top": 41,
+          "right": 344,
+          "bottom": 343
+        },
+        {
+          "left": 60,
+          "top": 60,
+          "right": 323,
+          "bottom": 322
+        },
+        {
+          "left": 75,
+          "top": 68,
+          "right": 308,
+          "bottom": 315
+        }
+      ],
+      "minHorizontalMarginPx": 38
+    },
+    {
+      "id": "FX-HARVEST",
+      "file": "sheets/FX-HARVEST.png",
+      "width": 1536,
+      "height": 384,
+      "cellWidth": 384,
+      "cellHeight": 384,
+      "count": 4,
+      "kind": "once",
+      "frameDurationMs": 120,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "frameOrder": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "frames": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 384,
+          "h": 384
+        },
+        {
+          "x": 384,
+          "y": 0,
+          "w": 384,
+          "h": 384
+        },
+        {
+          "x": 768,
+          "y": 0,
+          "w": 384,
+          "h": 384
+        },
+        {
+          "x": 1152,
+          "y": 0,
+          "w": 384,
+          "h": 384
+        }
+      ],
+      "sha256": "17209e69b4ab5d910750e76f46dca4d11b1956fb08e127dd63173093732affc7",
+      "alphaBounds": [
+        {
+          "left": 114,
+          "top": 186,
+          "right": 269,
+          "bottom": 344
+        },
+        {
+          "left": 96,
+          "top": 111,
+          "right": 286,
+          "bottom": 345
+        },
+        {
+          "left": 65,
+          "top": 38,
+          "right": 319,
+          "bottom": 344
+        },
+        {
+          "left": 104,
+          "top": 85,
+          "right": 278,
+          "bottom": 345
+        }
+      ],
+      "minHorizontalMarginPx": 64
+    },
+    {
+      "id": "FX-COIN-FLY",
+      "file": "sheets/FX-COIN-FLY.png",
+      "width": 288,
+      "height": 96,
+      "cellWidth": 96,
+      "cellHeight": 96,
+      "count": 3,
+      "kind": "loop",
+      "frameDurationMs": 180,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "frameOrder": [
+        0,
+        1,
+        2
+      ],
+      "frames": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 96,
+          "h": 96
+        },
+        {
+          "x": 96,
+          "y": 0,
+          "w": 96,
+          "h": 96
+        },
+        {
+          "x": 192,
+          "y": 0,
+          "w": 96,
+          "h": 96
+        }
+      ],
+      "sha256": "9cc2942839cadd6cb4fe25b3fc2e2fe3f5697cabbf59d382c022bbd62f8c065a",
+      "alphaBounds": [
+        {
+          "left": 11,
+          "top": 10,
+          "right": 85,
+          "bottom": 85
+        },
+        {
+          "left": 20,
+          "top": 10,
+          "right": 74,
+          "bottom": 86
+        },
+        {
+          "left": 38,
+          "top": 10,
+          "right": 58,
+          "bottom": 86
+        }
+      ],
+      "minHorizontalMarginPx": 10
+    },
+    {
+      "id": "S-COIN-ANI",
+      "file": "sheets/S-COIN-ANI.png",
+      "width": 384,
+      "height": 128,
+      "cellWidth": 128,
+      "cellHeight": 128,
+      "count": 3,
+      "kind": "loop",
+      "frameDurationMs": 240,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "frameOrder": [
+        0,
+        1,
+        2
+      ],
+      "frames": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 128,
+          "h": 128
+        },
+        {
+          "x": 128,
+          "y": 0,
+          "w": 128,
+          "h": 128
+        },
+        {
+          "x": 256,
+          "y": 0,
+          "w": 128,
+          "h": 128
+        }
+      ],
+      "sha256": "de51b3f086cdd5f0d32cc032e536955bdf9b0bfc7bcdcb6a3e6b4de7e1d27c2f",
+      "alphaBounds": [
+        {
+          "left": 19,
+          "top": 19,
+          "right": 108,
+          "bottom": 108
+        },
+        {
+          "left": 19,
+          "top": 19,
+          "right": 108,
+          "bottom": 108
+        },
+        {
+          "left": 14,
+          "top": 12,
+          "right": 108,
+          "bottom": 108
+        }
+      ],
+      "minHorizontalMarginPx": 14,
+      "coinBounds": {
+        "x": 19,
+        "y": 19,
+        "w": 90,
+        "h": 90
+      }
+    },
+    {
+      "id": "FX-FEED-POUR",
+      "file": "sheets/FX-FEED-POUR.png",
+      "width": 1024,
+      "height": 256,
+      "cellWidth": 256,
+      "cellHeight": 256,
+      "count": 4,
+      "kind": "once",
+      "frameDurationMs": 120,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "frameOrder": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "frames": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "x": 256,
+          "y": 0,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "x": 512,
+          "y": 0,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "x": 768,
+          "y": 0,
+          "w": 256,
+          "h": 256
+        }
+      ],
+      "sha256": "4d638b4d46cb9d195d367dab0b9579f9b13bfb56cae868531bc8fda4831f372a",
+      "alphaBounds": [
+        {
+          "left": 36,
+          "top": 109,
+          "right": 218,
+          "bottom": 230
+        },
+        {
+          "left": 37,
+          "top": 36,
+          "right": 219,
+          "bottom": 229
+        },
+        {
+          "left": 36,
+          "top": 26,
+          "right": 218,
+          "bottom": 230
+        },
+        {
+          "left": 37,
+          "top": 106,
+          "right": 219,
+          "bottom": 230
+        }
+      ],
+      "minHorizontalMarginPx": 36
+    },
+    {
+      "id": "FX-BOOST-AURA",
+      "file": "sheets/FX-BOOST-AURA.png",
+      "width": 1152,
+      "height": 384,
+      "cellWidth": 384,
+      "cellHeight": 384,
+      "count": 3,
+      "kind": "loop",
+      "frameDurationMs": 200,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "frameOrder": [
+        0,
+        1,
+        2
+      ],
+      "frames": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 384,
+          "h": 384
+        },
+        {
+          "x": 384,
+          "y": 0,
+          "w": 384,
+          "h": 384
+        },
+        {
+          "x": 768,
+          "y": 0,
+          "w": 384,
+          "h": 384
+        }
+      ],
+      "sha256": "ff486e15ae8b53a0e7e3c06cb8f0dd7a393e3004f4d8e067d7cd523b95c19324",
+      "alphaBounds": [
+        {
+          "left": 33,
+          "top": 33,
+          "right": 351,
+          "bottom": 351
+        },
+        {
+          "left": 33,
+          "top": 33,
+          "right": 352,
+          "bottom": 352
+        },
+        {
+          "left": 33,
+          "top": 33,
+          "right": 351,
+          "bottom": 351
+        }
+      ],
+      "minHorizontalMarginPx": 31,
+      "playbackOrder": [
+        0,
+        1,
+        2,
+        1
+      ],
+      "centerClearDiameter": 0.6
+    },
+    {
+      "id": "I-FEED-BOWL",
+      "file": "sheets/I-FEED-BOWL.png",
+      "width": 256,
+      "height": 128,
+      "cellWidth": 128,
+      "cellHeight": 128,
+      "count": 2,
+      "kind": "states",
+      "frameDurationMs": 120,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "frameOrder": [
+        "full",
+        "empty"
+      ],
+      "frames": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 128,
+          "h": 128
+        },
+        {
+          "x": 128,
+          "y": 0,
+          "w": 128,
+          "h": 128
+        }
+      ],
+      "sha256": "94752ee345880026347f6d1521739720658b0aa08403ef0fa8192052787df30a",
+      "alphaBounds": [
+        {
+          "left": 13,
+          "top": 45,
+          "right": 114,
+          "bottom": 114
+        },
+        {
+          "left": 13,
+          "top": 47,
+          "right": 114,
+          "bottom": 114
+        }
+      ],
+      "minHorizontalMarginPx": 13
+    },
+    {
+      "id": "FX-CONFETTI",
+      "file": "sheets/FX-CONFETTI.png",
+      "width": 1536,
+      "height": 512,
+      "cellWidth": 512,
+      "cellHeight": 512,
+      "count": 3,
+      "kind": "once",
+      "frameDurationMs": 120,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "frameOrder": [
+        0,
+        1,
+        2
+      ],
+      "frames": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "x": 512,
+          "y": 0,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "x": 1024,
+          "y": 0,
+          "w": 512,
+          "h": 512
+        }
+      ],
+      "sha256": "ffce81ab5ea6dc40c379fe600a2e0bbc4739d252b5d1f1c4fab583ae41657697",
+      "alphaBounds": [
+        {
+          "left": 61,
+          "top": 41,
+          "right": 444,
+          "bottom": 277
+        },
+        {
+          "left": 61,
+          "top": 50,
+          "right": 440,
+          "bottom": 323
+        },
+        {
+          "left": 41,
+          "top": 66,
+          "right": 438,
+          "bottom": 382
+        }
+      ],
+      "minHorizontalMarginPx": 41
+    },
+    {
+      "id": "FX-LAP",
+      "file": "sheets/FX-LAP.png",
+      "width": 2160,
+      "height": 720,
+      "cellWidth": 720,
+      "cellHeight": 720,
+      "count": 3,
+      "kind": "once",
+      "frameDurationMs": 120,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "frameOrder": [
+        0,
+        1,
+        2
+      ],
+      "frames": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 720,
+          "h": 720
+        },
+        {
+          "x": 720,
+          "y": 0,
+          "w": 720,
+          "h": 720
+        },
+        {
+          "x": 1440,
+          "y": 0,
+          "w": 720,
+          "h": 720
+        }
+      ],
+      "sha256": "1c39322ce6d9b2c08b434429aa34cb56883ab3567882bd45d3049da60f2f1e0b",
+      "alphaBounds": [
+        {
+          "left": 209,
+          "top": 135,
+          "right": 510,
+          "bottom": 395
+        },
+        {
+          "left": 155,
+          "top": 79,
+          "right": 557,
+          "bottom": 395
+        },
+        {
+          "left": 207,
+          "top": 93,
+          "right": 522,
+          "bottom": 395
+        }
+      ],
+      "minHorizontalMarginPx": 155
+    },
+    {
+      "id": "S-GROUP5",
+      "file": "sheets/S-GROUP5.png",
+      "width": 1024,
+      "height": 1024,
+      "cellWidth": 1024,
+      "cellHeight": 1024,
+      "count": 1,
+      "kind": "group",
+      "frameDurationMs": 120,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "frameOrder": [
+        0
+      ],
+      "frames": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 1024,
+          "h": 1024
+        }
+      ],
+      "sha256": "41a7640f6bac943fa9340d984838ceba6e872da3732a1a3d5a9090fad2f817d4",
+      "alphaBounds": [
+        {
+          "left": 51,
+          "top": 687,
+          "right": 972,
+          "bottom": 859
+        }
+      ],
+      "minHorizontalMarginPx": 51
+    },
+    {
+      "id": "S-HAPPY",
+      "file": "sheets/S-HAPPY.png",
+      "width": 2560,
+      "height": 512,
+      "cellWidth": 512,
+      "cellHeight": 512,
+      "count": 5,
+      "kind": "characters",
+      "frameDurationMs": 120,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "frameOrder": [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5"
+      ],
+      "frames": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "x": 512,
+          "y": 0,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "x": 1024,
+          "y": 0,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "x": 1536,
+          "y": 0,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "x": 2048,
+          "y": 0,
+          "w": 512,
+          "h": 512
+        }
+      ],
+      "sha256": "e784ff9a5c3c6334bce9360583e3e9b1ec5832ca7112ae4af9c22575661d6e12",
+      "alphaBounds": [
+        {
+          "left": 63,
+          "top": 151,
+          "right": 447,
+          "bottom": 460
+        },
+        {
+          "left": 80,
+          "top": 110,
+          "right": 431,
+          "bottom": 460
+        },
+        {
+          "left": 70,
+          "top": 104,
+          "right": 441,
+          "bottom": 460
+        },
+        {
+          "left": 51,
+          "top": 133,
+          "right": 460,
+          "bottom": 459
+        },
+        {
+          "left": 71,
+          "top": 99,
+          "right": 440,
+          "bottom": 460
+        }
+      ],
+      "minHorizontalMarginPx": 51
+    },
+    {
+      "id": "FX-STORE-FULL",
+      "file": "sheets/FX-STORE-FULL.png",
+      "width": 768,
+      "height": 256,
+      "cellWidth": 256,
+      "cellHeight": 256,
+      "count": 3,
+      "kind": "loop",
+      "frameDurationMs": 180,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "frameOrder": [
+        0,
+        1,
+        2
+      ],
+      "frames": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "x": 256,
+          "y": 0,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "x": 512,
+          "y": 0,
+          "w": 256,
+          "h": 256
+        }
+      ],
+      "sha256": "e4180cedd8c1022e6d23378bbb64b80682615948fdedef5b105015b9c995622b",
+      "alphaBounds": [
+        {
+          "left": 40,
+          "top": 26,
+          "right": 214,
+          "bottom": 230
+        },
+        {
+          "left": 37,
+          "top": 31,
+          "right": 218,
+          "bottom": 229
+        },
+        {
+          "left": 39,
+          "top": 27,
+          "right": 215,
+          "bottom": 229
+        }
+      ],
+      "minHorizontalMarginPx": 37
+    },
+    {
+      "id": "FX-EASY-POP",
+      "file": "sheets/FX-EASY-POP.png",
+      "width": 1024,
+      "height": 256,
+      "cellWidth": 256,
+      "cellHeight": 256,
+      "count": 4,
+      "kind": "once",
+      "frameDurationMs": 120,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "frameOrder": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "frames": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "x": 256,
+          "y": 0,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "x": 512,
+          "y": 0,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "x": 768,
+          "y": 0,
+          "w": 256,
+          "h": 256
+        }
+      ],
+      "sha256": "6e0b62a96086c2226990bef34ec7bde61778149df9a1f32e9f8c4f8d8ceee30f",
+      "alphaBounds": [
+        {
+          "left": 84,
+          "top": 79,
+          "right": 170,
+          "bottom": 175
+        },
+        {
+          "left": 60,
+          "top": 53,
+          "right": 192,
+          "bottom": 202
+        },
+        {
+          "left": 33,
+          "top": 26,
+          "right": 217,
+          "bottom": 226
+        },
+        {
+          "left": 33,
+          "top": 26,
+          "right": 219,
+          "bottom": 226
+        }
+      ],
+      "minHorizontalMarginPx": 33
+    },
+    {
+      "id": "FX-EASY-GET",
+      "file": "sheets/FX-EASY-GET.png",
+      "width": 768,
+      "height": 256,
+      "cellWidth": 256,
+      "cellHeight": 256,
+      "count": 3,
+      "kind": "once",
+      "frameDurationMs": 140,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "frameOrder": [
+        0,
+        1,
+        2
+      ],
+      "frames": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "x": 256,
+          "y": 0,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "x": 512,
+          "y": 0,
+          "w": 256,
+          "h": 256
+        }
+      ],
+      "sha256": "00177c5315abe97bfee74ffcdabfff39808e87a228220410cb6cbd0716145f55",
+      "alphaBounds": [
+        {
+          "left": 57,
+          "top": 20,
+          "right": 198,
+          "bottom": 245
+        },
+        {
+          "left": 57,
+          "top": 29,
+          "right": 198,
+          "bottom": 245
+        },
+        {
+          "left": 57,
+          "top": 94,
+          "right": 202,
+          "bottom": 245
+        }
+      ],
+      "minHorizontalMarginPx": 53,
+      "faceCenter": [
+        128,
+        166
+      ],
+      "faceClearRadius": 48
+    }
+  ],
+  "revision": "1117-2",
+  "changedSheets": [
+    "S-COIN-ANI",
+    "FX-BOOST-AURA",
+    "FX-EASY-GET",
+    "S-GROUP5"
+  ],
+  "preservedSheets": [
+    "S-SLEEP",
+    "S-GRADUATE",
+    "FX-LVUP-BURST",
+    "FX-HARVEST",
+    "FX-COIN-FLY",
+    "FX-FEED-POUR",
+    "I-FEED-BOWL",
+    "FX-CONFETTI",
+    "FX-LAP",
+    "S-HAPPY",
+    "FX-STORE-FULL",
+    "FX-EASY-POP"
+  ]
+}
