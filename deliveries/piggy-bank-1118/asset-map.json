@@ -1,0 +1,158 @@
+{
+  "pack": "piggy-bank-1118",
+  "date": "2026-11-18",
+  "count": 9,
+  "format": "PNG RGBA",
+  "style": "glossy pastel pink 3D with gold accents",
+  "assets": [
+    {
+      "id": "S-PIG-FULL",
+      "file": "S-PIG-FULL.png",
+      "width": 1504,
+      "height": 1504,
+      "transparent": true,
+      "contentBounds": {
+        "left": 302,
+        "top": 66,
+        "width": 1014,
+        "height": 1225
+      },
+      "sha256": "2a94850e9b0ef088ff3cef23f06e5270278addd6795c7098d0a74a3eaac872f7",
+      "usage": "full state only",
+      "alignment": {
+        "canvas": [
+          1504,
+          1504
+        ],
+        "referenceBodyBounds": {
+          "left": 305,
+          "top": 236,
+          "width": 972,
+          "height": 1027
+        },
+        "bodyBaselineY": 1262,
+        "note": "Aligned to landmarks visually measured from supplied reference; do not trim or auto-center. Exact source-pixel overlay comparison was unavailable because references were supplied inline."
+      }
+    },
+    {
+      "id": "C-COIN",
+      "file": "C-COIN.png",
+      "width": 256,
+      "height": 256,
+      "transparent": true,
+      "contentBounds": {
+        "left": 20,
+        "top": 20,
+        "width": 216,
+        "height": 216
+      },
+      "sha256": "801afede29c7b26e73b60c6802726a63584d94f885499036c85a7e5f7c5794a3",
+      "usage": "single front-facing gold coin with pig-snout relief"
+    },
+    {
+      "id": "S-PEDESTAL",
+      "file": "S-PEDESTAL.png",
+      "width": 1024,
+      "height": 400,
+      "transparent": true,
+      "contentBounds": {
+        "left": 71,
+        "top": 20,
+        "width": 882,
+        "height": 360
+      },
+      "sha256": "02aa4775564978371d34a3a751bc9bdd648ae1147c286418f9a527fa6ff14143",
+      "usage": "independent pedestal layer behind pig"
+    },
+    {
+      "id": "I-BOOST-AD",
+      "file": "I-BOOST-AD.png",
+      "width": 256,
+      "height": 256,
+      "transparent": true,
+      "contentBounds": {
+        "left": 35,
+        "top": 22,
+        "width": 187,
+        "height": 213
+      },
+      "sha256": "625950c6a129fb991dd07c3d66ec11381fbae404418c21545cf27b99329d3656",
+      "usage": "booster card"
+    },
+    {
+      "id": "I-BOOST-ATT",
+      "file": "I-BOOST-ATT.png",
+      "width": 256,
+      "height": 256,
+      "transparent": true,
+      "contentBounds": {
+        "left": 31,
+        "top": 22,
+        "width": 194,
+        "height": 213
+      },
+      "sha256": "9ad96cf472e46d49cc6322b5ddaee11c05d87c9d64cd0d3b74ab7cf2cd381426",
+      "usage": "booster card"
+    },
+    {
+      "id": "I-BOOST-MIS",
+      "file": "I-BOOST-MIS.png",
+      "width": 256,
+      "height": 256,
+      "transparent": true,
+      "contentBounds": {
+        "left": 37,
+        "top": 22,
+        "width": 183,
+        "height": 213
+      },
+      "sha256": "860b692b92a1d27604c842c707dfb636a9043d27d3858cf65b9a15b7e221bbb5",
+      "usage": "booster card"
+    },
+    {
+      "id": "I-TAB-HOME",
+      "file": "I-TAB-HOME.png",
+      "width": 128,
+      "height": 128,
+      "transparent": true,
+      "contentBounds": {
+        "left": 10,
+        "top": 10,
+        "width": 108,
+        "height": 108
+      },
+      "sha256": "55b942dd553d4f30a364b8d68c80785e6204524e340b379e37d4973c667232cf",
+      "usage": "selected bottom navigation; app dims unselected state"
+    },
+    {
+      "id": "I-TAB-SHOP",
+      "file": "I-TAB-SHOP.png",
+      "width": 128,
+      "height": 128,
+      "transparent": true,
+      "contentBounds": {
+        "left": 15,
+        "top": 10,
+        "width": 99,
+        "height": 108
+      },
+      "sha256": "93f1e17333c3bfc1986f1b193c1efd7c1bcc987dd2382af2c5eb59dc17a1a74b",
+      "usage": "selected bottom navigation; app dims unselected state"
+    },
+    {
+      "id": "I-TAB-MY",
+      "file": "I-TAB-MY.png",
+      "width": 128,
+      "height": 128,
+      "transparent": true,
+      "contentBounds": {
+        "left": 18,
+        "top": 10,
+        "width": 93,
+        "height": 108
+      },
+      "sha256": "fc30f36cd6514f31844c5002d00ff3f723dfcdf02b141f4bfc94b0a4103adc95",
+      "usage": "selected bottom navigation; app dims unselected state"
+    }
+  ]
+}

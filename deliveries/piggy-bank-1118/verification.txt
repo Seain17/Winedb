@@ -1,0 +1,42 @@
+PASS nine requested files
+PASS S-PIG-FULL exact dimensions
+PASS S-PIG-FULL RGBA with real transparency
+PASS S-PIG-FULL transparent outer border, no clipped subject
+PASS S-PIG-FULL SHA256
+PASS C-COIN exact dimensions
+PASS C-COIN RGBA with real transparency
+PASS C-COIN transparent outer border, no clipped subject
+PASS C-COIN SHA256
+PASS S-PEDESTAL exact dimensions
+PASS S-PEDESTAL RGBA with real transparency
+PASS S-PEDESTAL transparent outer border, no clipped subject
+PASS S-PEDESTAL SHA256
+PASS I-BOOST-AD exact dimensions
+PASS I-BOOST-AD RGBA with real transparency
+PASS I-BOOST-AD transparent outer border, no clipped subject
+PASS I-BOOST-AD SHA256
+PASS I-BOOST-ATT exact dimensions
+PASS I-BOOST-ATT RGBA with real transparency
+PASS I-BOOST-ATT transparent outer border, no clipped subject
+PASS I-BOOST-ATT SHA256
+PASS I-BOOST-MIS exact dimensions
+PASS I-BOOST-MIS RGBA with real transparency
+PASS I-BOOST-MIS transparent outer border, no clipped subject
+PASS I-BOOST-MIS SHA256
+PASS I-TAB-HOME exact dimensions
+PASS I-TAB-HOME RGBA with real transparency
+PASS I-TAB-HOME transparent outer border, no clipped subject
+PASS I-TAB-HOME SHA256
+PASS I-TAB-SHOP exact dimensions
+PASS I-TAB-SHOP RGBA with real transparency
+PASS I-TAB-SHOP transparent outer border, no clipped subject
+PASS I-TAB-SHOP SHA256
+PASS I-TAB-MY exact dimensions
+PASS I-TAB-MY RGBA with real transparency
+PASS I-TAB-MY transparent outer border, no clipped subject
+PASS I-TAB-MY SHA256
+
+PASS — 37 checks.
+Visual review: matching glossy 3D pink/gold material, pig-snout coins, six distinct icons, pedestal only, no lettering.
+Alignment: pig body bounds/baseline visually matched to inline reference; exact source pixel diff and in-app replacement not tested.
+Browser preview: PASS — no broken images, dark/light background switch, no horizontal overflow at 390px.
