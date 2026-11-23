@@ -1,0 +1,98 @@
+Mission cards 1123 verification
+Date: 2026-11-23 (Asia/Seoul)
+PASS: three PNG files; all 1024x1024, RGBA, actual alpha 0..255.
+PASS: visible artwork longest-side fill 80%-88%; bottom margin 5%-8%; top/left/right margins >=6%.
+PASS: every canvas edge fully transparent; no ground or backdrop.
+PASS: K3 group is wider than tall.
+
+Visual review at native artwork size and 136px/48px on sky/yellow/orange preview backgrounds:
+- K1: three-quarter airborne leap; one raised paw flicks a separate blank silver coin with two motion arcs; light-blue scarf.
+- K2: standing forward lean, raised tail, smartphone and magnifier in separate paws, one blank chat bubble and plain red triangle; yellow scarf.
+- K3: right-facing running stride, both paws pushing a wheeled purple cart; milk carton, apple, bread; orange scarf.
+- Three poses are visibly distinct; approximate head scale compared side by side. No frontal seated pose, text, numbers, logos, watermark, ground or shadow plate.
+- Color backgrounds used only for inspection, not included in delivered PNGs.
+
+Export: image-generated artwork; near-zero alpha residue normalized; aspect ratio preserved during resize; transparent 1024px canvas, shared bottom y=956.
+Pixel checks: Pillow and NumPy. App integration, WebP conversion, build and flow tests are recipient tasks and were not run.
+
+Measured files (bounds use exclusive right/bottom):
+[
+  {
+    "file": "cards/card_exact-change.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "alpha_bounds_xyxy_exclusive": [
+      100,
+      137,
+      924,
+      956
+    ],
+    "fill_percent": 80.469,
+    "margins_px": {
+      "left": 100,
+      "top": 137,
+      "right": 100,
+      "bottom": 68
+    },
+    "sha256": "0dbe0690f02f65e8859d5e00a23114934c9ac82fb4f60ec2fa665bfaaf1c7190"
+  },
+  {
+    "file": "cards/card_smart-shopping.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "alpha_bounds_xyxy_exclusive": [
+      64,
+      324,
+      960,
+      956
+    ],
+    "fill_percent": 87.5,
+    "margins_px": {
+      "left": 64,
+      "top": 324,
+      "right": 64,
+      "bottom": 68
+    },
+    "sha256": "24a5b08f270efbf3feeed6f29ae9445c79ec92d0c01a1488f29eb29f26bd2c66"
+  },
+  {
+    "file": "cards/card_smishing-catch.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "alpha_bounds_xyxy_exclusive": [
+      72,
+      326,
+      952,
+      956
+    ],
+    "fill_percent": 85.938,
+    "margins_px": {
+      "left": 72,
+      "top": 326,
+      "right": 72,
+      "bottom": 68
+    },
+    "sha256": "b17f4988c6a9cdd578432a823238dbee189fbc905bf18381c582985d218f07ef"
+  }
+]
