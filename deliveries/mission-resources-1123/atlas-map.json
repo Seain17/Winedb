@@ -1,0 +1,177 @@
+{
+  "version": 1,
+  "coordinate_system": "top-left; pixels; x/y/width/height; alpha_bounds uses exclusive right/bottom",
+  "images": {
+    "gate/gate_hero.png": {
+      "width": 1536,
+      "height": 1024,
+      "cells": [
+        {
+          "name": "team",
+          "frame": {
+            "x": 0,
+            "y": 0,
+            "width": 1536,
+            "height": 1024
+          },
+          "alpha_bounds": [
+            112,
+            339,
+            1417,
+            711
+          ]
+        }
+      ],
+      "recommended_crop": {
+        "x": 0,
+        "y": 256,
+        "width": 1536,
+        "height": 512
+      }
+    },
+    "gate/stamp_sheet.png": {
+      "width": 1024,
+      "height": 512,
+      "cells": [
+        {
+          "name": "stamped",
+          "frame": {
+            "x": 0,
+            "y": 0,
+            "width": 512,
+            "height": 512
+          },
+          "alpha_bounds": [
+            64,
+            64,
+            448,
+            448
+          ]
+        },
+        {
+          "name": "empty",
+          "frame": {
+            "x": 512,
+            "y": 0,
+            "width": 512,
+            "height": 512
+          },
+          "alpha_bounds": [
+            576,
+            64,
+            960,
+            448
+          ]
+        }
+      ]
+    },
+    "gate/reward_sheet.png": {
+      "width": 1024,
+      "height": 512,
+      "cells": [
+        {
+          "name": "closed",
+          "frame": {
+            "x": 0,
+            "y": 0,
+            "width": 512,
+            "height": 512
+          },
+          "alpha_bounds": [
+            97,
+            70,
+            414,
+            456
+          ]
+        },
+        {
+          "name": "opened",
+          "frame": {
+            "x": 512,
+            "y": 0,
+            "width": 512,
+            "height": 512
+          },
+          "alpha_bounds": [
+            615,
+            53,
+            921,
+            456
+          ]
+        }
+      ]
+    },
+    "change/coins_sheet_v2.png": {
+      "width": 1536,
+      "height": 1024,
+      "cells": [
+        {
+          "name": "coin_500",
+          "frame": {
+            "x": 0,
+            "y": 0,
+            "width": 512,
+            "height": 1024
+          },
+          "alpha_bounds": [
+            56,
+            312,
+            456,
+            712
+          ]
+        },
+        {
+          "name": "coin_100",
+          "frame": {
+            "x": 512,
+            "y": 0,
+            "width": 512,
+            "height": 1024
+          },
+          "alpha_bounds": [
+            588,
+            332,
+            948,
+            692
+          ]
+        },
+        {
+          "name": "coin_50",
+          "frame": {
+            "x": 1024,
+            "y": 0,
+            "width": 512,
+            "height": 1024
+          },
+          "alpha_bounds": [
+            1120,
+            352,
+            1440,
+            672
+          ]
+        }
+      ]
+    },
+    "shopping/banner_art_v2.png": {
+      "width": 1536,
+      "height": 1024,
+      "cells": [
+        {
+          "name": "basket",
+          "frame": {
+            "x": 0,
+            "y": 0,
+            "width": 1536,
+            "height": 1024
+          },
+          "alpha_bounds": [
+            852,
+            378,
+            1140,
+            645
+          ]
+        }
+      ]
+    }
+  }
+}

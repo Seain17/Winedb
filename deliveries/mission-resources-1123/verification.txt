@@ -1,0 +1,19 @@
+Mission resources 1123 verification
+Date: 2026-11-23 (Asia/Seoul)
+Pixel checks: Pillow + NumPy; artwork/export: image generation + ImageMagick.
+
+PASS gate/gate_hero.png: 1536x1024, RGBA, alpha range 0..255, all canvas edges alpha=0; visible bounds (112, 339, 1417, 711); SHA256 094a0a9e904603fcd5117abc1eddf270b67e2f5f8d625187a10e7ce5e52bc40a
+PASS hero: group width 1305px (84.96%), all content within y=30%-70%, side margins >=6%; three animals/order/scarf colors/props checked visually.
+PASS gate/stamp_sheet.png: 1024x512, RGBA, alpha range 0..255, all canvas edges alpha=0; visible bounds (64, 64, 960, 448); SHA256 fdbbf1720f7dcb450adbc884b138b902d684b6e156689e10200bcf554eaf0ebd
+PASS stamp diameters 384px (75% fill), same cell-relative position, 64px margins.
+PASS gate/reward_sheet.png: 1024x512, RGBA, alpha range 0..255, all canvas edges alpha=0; visible bounds (97, 53, 921, 456); SHA256 758f695754c6eefea542626ed498c07689b553b391a9877075a03cebd0e5f688
+PASS reward longest sides 386/403px (75.39%/78.71%), all margins >=8%, shared bottom y=456. Matching box design/scale checked visually.
+PASS change/coins_sheet_v2.png: 1536x1024, RGBA, alpha range 0..255, all canvas edges alpha=0; visible bounds (56, 312, 1440, 712); SHA256 5ff5397d3c49b40eb7217cb44a407b90b39718e01633d11eecbfb577ee38224c
+PASS coin diameters 400/360/320 px, ratio 100:90:80, column centers (256,512)/(768,512)/(1280,512), gaps [132, 172] px.
+PASS shopping/banner_art_v2.png: 1536x1024, RGBA, alpha range 0..255, all canvas edges alpha=0; visible bounds (852, 378, 1140, 645); SHA256 bb699cd96c37b95929987f3ac9f8d68c8fd8f5a71da81357cf1ff919fefdb65d
+PASS shopping: left 55% and right 25% fully transparent; all content inside middle 32%-68% height.
+
+Visual review: lavender composite previews checked; no backdrop/black fringe, readable paw stamp, blank coins/tokens/tag/carton, no text/brands/watermarks.
+Export: near-zero alpha residue removed; atlas cells resized and positioned mechanically to requested dimensions.
+S1: common transparent-PNG rule takes precedence over conflicting pale-lavender background prompt.
+App crop/compression/integration/build/smoke tests are not run; these remain the recipient workflow described in the request.
